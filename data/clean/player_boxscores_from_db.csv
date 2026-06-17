@@ -1,0 +1,481 @@
+﻿id,game_id,game_no,team,player_name,starter,minutes,minutes_float,points,rebounds,assists,steals,blocks,turnovers,fouls,fgm,fga,fg_pct,three_pm,three_pa,three_pct,ftm,fta,ft_pct,efficiency,source_url
+481,125112-CHN-NZL,1,China,Saiqi Jia,False,19:8,19.13,3,4,2,5,0,0,2,1,6,16.7,1,3,33.3,0,0,0.0,9.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125112-CHN-NZL
+482,125112-CHN-NZL,1,China,Ruoyun Zhai,False,23:13,23.22,5,3,1,0,0,1,1,2,7,28.6,1,4,25.0,0,0,0.0,3.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125112-CHN-NZL
+483,125112-CHN-NZL,1,China,ZIYU ZHANG,False,10:2,10.03,12,4,0,0,0,1,1,4,6,66.7,0,0,0.0,4,5,80.0,12.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125112-CHN-NZL
+484,125112-CHN-NZL,1,China,Xinyu Luo,True,25:21,25.35,8,3,1,2,0,2,0,2,8,25.0,0,6,0.0,4,4,100.0,6.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125112-CHN-NZL
+485,125112-CHN-NZL,1,China,Xu Han,True,15:55,15.92,10,5,1,0,1,0,1,5,6,83.3,0,0,0.0,0,0,0.0,16.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125112-CHN-NZL
+486,125112-CHN-NZL,1,China,Zhenqi Pan,False,19:42,19.7,5,4,1,0,0,3,2,1,2,50.0,0,0,0.0,3,4,75.0,5.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125112-CHN-NZL
+487,125112-CHN-NZL,1,China,Sijing Huang,False,19:55,19.92,8,6,1,2,1,0,2,3,11,27.3,2,6,33.3,0,0,0.0,10.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125112-CHN-NZL
+488,125112-CHN-NZL,1,China,Ru Zhang,True,10:43,10.72,4,2,3,0,0,0,4,2,3,66.7,0,0,0.0,0,0,0.0,8.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125112-CHN-NZL
+489,125112-CHN-NZL,1,China,Liwei Yang,False,12:54,12.9,5,0,4,1,0,1,3,2,5,40.0,1,3,33.3,0,0,0.0,6.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125112-CHN-NZL
+490,125112-CHN-NZL,1,China,Shuyu Yang,True,16:1,16.02,12,3,4,0,0,0,3,5,8,62.5,2,3,66.7,0,0,0.0,16.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125112-CHN-NZL
+491,125112-CHN-NZL,1,China,Yuan Li,True,16:31,16.52,7,3,6,0,0,1,0,3,5,60.0,0,1,0.0,1,2,50.0,12.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125112-CHN-NZL
+492,125112-CHN-NZL,1,China,Siyu Wang,False,10:35,10.58,6,2,7,0,0,1,0,1,2,50.0,1,1,100.0,3,6,50.0,10.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125112-CHN-NZL
+493,125112-CHN-NZL,1,New Zealand,Charlotte Whittaker,False,19:29,19.48,10,5,0,0,0,1,3,5,12,41.7,0,2,0.0,0,0,0.0,7.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125112-CHN-NZL
+494,125112-CHN-NZL,1,New Zealand,McKenna Dale,True,21:1,21.02,3,5,0,1,1,0,0,1,4,25.0,1,3,33.3,0,0,0.0,7.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125112-CHN-NZL
+495,125112-CHN-NZL,1,New Zealand,Tayla Dalton,True,24:20,24.33,9,4,4,1,0,2,4,3,6,50.0,0,0,0.0,3,6,50.0,10.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125112-CHN-NZL
+496,125112-CHN-NZL,1,New Zealand,Olivia Williams,False,16:19,16.32,0,2,2,1,1,1,0,0,8,0.0,0,1,0.0,0,0,0.0,-3.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125112-CHN-NZL
+497,125112-CHN-NZL,1,New Zealand,Ritorya Tamilo,False,18:10,18.17,3,3,1,0,1,2,4,1,3,33.3,0,0,0.0,1,3,33.3,2.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125112-CHN-NZL
+498,125112-CHN-NZL,1,New Zealand,Ella Tofaeono,False,16:31,16.52,1,10,0,0,0,4,1,0,2,0.0,0,0,0.0,1,2,50.0,4.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125112-CHN-NZL
+499,125112-CHN-NZL,1,New Zealand,Esra McGoldrick,True,10:59,10.98,2,4,1,0,0,2,0,1,6,16.7,0,1,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125112-CHN-NZL
+500,125112-CHN-NZL,1,New Zealand,Ashlee Strawbridge,False,18:33,18.55,0,1,2,0,0,0,1,0,3,0.0,0,2,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125112-CHN-NZL
+501,125112-CHN-NZL,1,New Zealand,Rebecca Kathleen Pizzey,True,15:34,15.57,8,4,0,0,1,3,2,4,6,66.7,0,0,0.0,0,1,0.0,7.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125112-CHN-NZL
+502,125112-CHN-NZL,1,New Zealand,Pahlyss Hokianga,False,21:6,21.1,7,1,2,1,0,2,2,2,8,25.0,0,1,0.0,3,4,75.0,2.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125112-CHN-NZL
+503,125112-CHN-NZL,1,New Zealand,Bailey Flavell,False,0:0,0.0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125112-CHN-NZL
+504,125112-CHN-NZL,1,New Zealand,Emilia Shearer,True,17:58,17.97,8,1,2,0,0,1,3,3,6,50.0,2,3,66.7,0,0,0.0,7.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125112-CHN-NZL
+505,125113-NZL-KOR,2,New Zealand,Charlotte Whittaker,False,7:59,7.98,4,1,0,1,0,1,2,2,4,50.0,0,0,0.0,0,0,0.0,3.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125113-NZL-KOR
+506,125113-NZL-KOR,2,New Zealand,McKenna Dale,True,32:13,32.22,11,3,3,3,0,1,1,5,10,50.0,1,3,33.3,0,0,0.0,14.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125113-NZL-KOR
+507,125113-NZL-KOR,2,New Zealand,Tayla Dalton,False,23:42,23.7,2,4,5,0,0,2,2,0,2,0.0,0,2,0.0,2,4,50.0,5.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125113-NZL-KOR
+508,125113-NZL-KOR,2,New Zealand,Olivia Williams,False,0:0,0.0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125113-NZL-KOR
+509,125113-NZL-KOR,2,New Zealand,Ritorya Tamilo,True,16:39,16.65,7,8,1,2,0,2,2,3,7,42.9,0,0,0.0,1,2,50.0,11.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125113-NZL-KOR
+510,125113-NZL-KOR,2,New Zealand,Ella Tofaeono,False,1:11,1.18,0,2,0,0,0,2,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125113-NZL-KOR
+511,125113-NZL-KOR,2,New Zealand,Esra McGoldrick,True,31:57,31.95,10,5,4,2,1,1,1,4,12,33.3,0,1,0.0,2,5,40.0,10.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125113-NZL-KOR
+512,125113-NZL-KOR,2,New Zealand,Ashlee Strawbridge,False,2:59,2.98,1,0,1,0,0,0,0,0,0,0.0,0,0,0.0,1,2,50.0,1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125113-NZL-KOR
+513,125113-NZL-KOR,2,New Zealand,Rebecca Kathleen Pizzey,False,22:25,22.42,11,4,2,1,1,1,0,5,6,83.3,0,0,0.0,1,2,50.0,16.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125113-NZL-KOR
+514,125113-NZL-KOR,2,New Zealand,Pahlyss Hokianga,True,18:23,18.38,5,2,5,2,0,2,1,2,5,40.0,1,2,50.0,0,0,0.0,9.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125113-NZL-KOR
+515,125113-NZL-KOR,2,New Zealand,Bailey Flavell,False,12:16,12.27,3,1,1,0,0,3,1,1,1,100.0,0,0,0.0,1,2,50.0,1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125113-NZL-KOR
+516,125113-NZL-KOR,2,New Zealand,Emilia Shearer,True,30:17,30.28,22,4,3,0,1,1,2,8,17,47.1,2,5,40.0,4,4,100.0,20.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125113-NZL-KOR
+517,125113-NZL-KOR,2,Korea,Heji An,True,24:0,24.0,2,1,3,0,0,1,1,1,3,33.3,0,1,0.0,0,0,0.0,3.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125113-NZL-KOR
+518,125113-NZL-KOR,2,Korea,Jihyun Shin,False,6:35,6.58,0,1,0,0,0,1,0,0,3,0.0,0,2,0.0,0,0,0.0,-3.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125113-NZL-KOR
+519,125113-NZL-KOR,2,Korea,Leeseul Kang,True,25:40,25.67,19,5,3,0,0,1,3,6,14,42.9,6,13,46.2,1,2,50.0,17.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125113-NZL-KOR
+520,125113-NZL-KOR,2,Korea,Yeeun Heo,False,14:29,14.48,0,2,7,1,0,1,4,0,2,0.0,0,2,0.0,0,0,0.0,7.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125113-NZL-KOR
+521,125113-NZL-KOR,2,Korea,Isaem Choi,True,30:3,30.05,23,6,0,0,0,1,1,9,14,64.3,5,9,55.6,0,0,0.0,23.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125113-NZL-KOR
+522,125113-NZL-KOR,2,Korea,Jisu Park,True,19:16,19.27,8,6,4,1,4,5,4,3,10,30.0,0,1,0.0,2,2,100.0,11.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125113-NZL-KOR
+523,125113-NZL-KOR,2,Korea,Juyeon Lee,False,1:31,1.52,0,0,0,0,0,1,0,0,0,0.0,0,0,0.0,0,0,0.0,-1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125113-NZL-KOR
+524,125113-NZL-KOR,2,Korea,Jihyun Park,True,30:36,30.6,20,7,3,4,0,2,3,8,12,66.7,2,4,50.0,2,4,50.0,26.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125113-NZL-KOR
+525,125113-NZL-KOR,2,Korea,Yoolim Kang,False,3:49,3.82,0,0,0,0,1,0,0,0,1,0.0,0,1,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125113-NZL-KOR
+526,125113-NZL-KOR,2,Korea,Haeran Lee,False,11:24,11.4,0,2,0,0,0,2,2,0,2,0.0,0,1,0.0,0,0,0.0,-2.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125113-NZL-KOR
+527,125113-NZL-KOR,2,Korea,Myung Kuwan Lee,False,13:21,13.35,2,1,0,1,0,0,1,1,6,16.7,0,3,0.0,0,0,0.0,-1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125113-NZL-KOR
+528,125113-NZL-KOR,2,Korea,Yusun HONG,False,19:16,19.27,4,2,3,1,0,0,1,2,4,50.0,0,0,0.0,0,0,0.0,8.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125113-NZL-KOR
+529,125114-KOR-CHN,3,Korea,Yusun HONG,False,11:29,11.48,3,0,1,0,0,1,2,1,3,33.3,0,1,0.0,1,2,50.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125114-KOR-CHN
+530,125114-KOR-CHN,3,Korea,Myung Kuwan Lee,False,16:23,16.38,0,2,2,2,0,0,2,0,6,0.0,0,4,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125114-KOR-CHN
+531,125114-KOR-CHN,3,Korea,Haeran Lee,False,15:8,15.13,0,3,0,1,0,2,0,0,2,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125114-KOR-CHN
+532,125114-KOR-CHN,3,Korea,Yoolim Kang,True,15:50,15.83,10,0,1,0,0,0,4,3,3,100.0,2,2,100.0,2,3,66.7,10.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125114-KOR-CHN
+533,125114-KOR-CHN,3,Korea,Jihyun Park,True,30:0,30.0,10,2,2,2,0,1,1,5,13,38.5,0,4,0.0,0,0,0.0,7.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125114-KOR-CHN
+534,125114-KOR-CHN,3,Korea,Juyeon Lee,False,6:43,6.72,2,0,0,0,1,0,2,1,3,33.3,0,0,0.0,0,0,0.0,1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125114-KOR-CHN
+535,125114-KOR-CHN,3,Korea,Jisu Park,True,19:35,19.58,8,4,2,3,0,2,2,4,12,33.3,0,1,0.0,0,0,0.0,7.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125114-KOR-CHN
+536,125114-KOR-CHN,3,Korea,Isaem Choi,True,29:3,29.05,16,7,1,1,0,0,2,6,15,40.0,4,7,57.1,0,0,0.0,16.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125114-KOR-CHN
+537,125114-KOR-CHN,3,Korea,Yeeun Heo,False,13:21,13.35,0,2,5,0,0,1,1,0,5,0.0,0,3,0.0,0,0,0.0,1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125114-KOR-CHN
+538,125114-KOR-CHN,3,Korea,Leeseul Kang,False,0:0,0.0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125114-KOR-CHN
+539,125114-KOR-CHN,3,Korea,Heji An,True,23:53,23.88,15,5,6,1,0,3,2,5,7,71.4,3,4,75.0,2,4,50.0,20.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125114-KOR-CHN
+540,125114-KOR-CHN,3,Korea,Jihyun Shin,False,18:35,18.58,5,0,3,0,0,0,2,2,9,22.2,1,5,20.0,0,0,0.0,1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125114-KOR-CHN
+541,125114-KOR-CHN,3,China,Saiqi Jia,False,7:2,7.03,4,2,0,0,0,1,1,2,2,100.0,0,0,0.0,0,0,0.0,5.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125114-KOR-CHN
+542,125114-KOR-CHN,3,China,Ruoyun Zhai,False,14:9,14.15,3,1,1,0,0,1,0,1,1,100.0,1,1,100.0,0,0,0.0,4.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125114-KOR-CHN
+543,125114-KOR-CHN,3,China,ZIYU ZHANG,False,14:24,14.4,18,4,0,0,0,1,0,8,8,100.0,0,0,0.0,2,2,100.0,21.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125114-KOR-CHN
+544,125114-KOR-CHN,3,China,Xinyu Luo,True,17:31,17.52,2,4,2,1,0,1,1,1,6,16.7,0,4,0.0,0,0,0.0,3.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125114-KOR-CHN
+545,125114-KOR-CHN,3,China,Xu Han,True,23:4,23.07,18,12,1,1,2,1,0,7,13,53.8,0,2,0.0,4,5,80.0,26.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125114-KOR-CHN
+546,125114-KOR-CHN,3,China,Zhenqi Pan,False,3:0,3.0,1,2,0,0,0,0,0,0,0,0.0,0,0,0.0,1,2,50.0,2.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125114-KOR-CHN
+547,125114-KOR-CHN,3,China,Sijing Huang,False,11:34,11.57,6,2,3,0,0,2,4,1,1,100.0,1,1,100.0,3,4,75.0,8.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125114-KOR-CHN
+548,125114-KOR-CHN,3,China,Ru Zhang,True,19:12,19.2,10,5,2,0,0,4,4,5,8,62.5,0,0,0.0,0,0,0.0,10.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125114-KOR-CHN
+549,125114-KOR-CHN,3,China,Liwei Yang,False,27:15,27.25,11,4,8,1,0,1,1,5,14,35.7,1,6,16.7,0,1,0.0,13.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125114-KOR-CHN
+550,125114-KOR-CHN,3,China,Shuyu Yang,True,34:48,34.8,9,9,5,2,1,3,2,4,11,36.4,1,6,16.7,0,0,0.0,16.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125114-KOR-CHN
+551,125114-KOR-CHN,3,China,Yuan Li,True,15:49,15.82,0,0,2,0,0,1,2,0,2,0.0,0,0,0.0,0,0,0.0,-1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125114-KOR-CHN
+552,125114-KOR-CHN,3,China,Siyu Wang,False,12:12,12.2,9,3,8,0,0,0,0,3,4,75.0,0,1,0.0,3,3,100.0,19.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125114-KOR-CHN
+553,125115-CHN-INA,4,China,Saiqi Jia,False,8:35,8.58,3,2,1,2,0,1,3,1,2,50.0,1,1,100.0,0,0,0.0,6.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125115-CHN-INA
+554,125115-CHN-INA,4,China,Ruoyun Zhai,False,23:44,23.73,12,4,3,2,0,1,0,4,8,50.0,4,7,57.1,0,0,0.0,16.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125115-CHN-INA
+555,125115-CHN-INA,4,China,ZIYU ZHANG,False,11:36,11.6,13,4,2,0,1,4,2,5,7,71.4,0,0,0.0,3,4,75.0,13.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125115-CHN-INA
+556,125115-CHN-INA,4,China,Xinyu Luo,True,19:33,19.55,13,6,4,2,0,1,1,3,7,42.9,2,5,40.0,5,6,83.3,19.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125115-CHN-INA
+557,125115-CHN-INA,4,China,Xu Han,True,17:6,17.1,12,5,2,0,1,1,0,5,7,71.4,1,1,100.0,1,2,50.0,16.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125115-CHN-INA
+558,125115-CHN-INA,4,China,Zhenqi Pan,False,13:38,13.63,11,2,3,0,0,1,4,4,4,100.0,0,0,0.0,3,5,60.0,13.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125115-CHN-INA
+559,125115-CHN-INA,4,China,Sijing Huang,False,14:53,14.88,5,4,0,0,1,0,0,1,3,33.3,1,2,50.0,2,2,100.0,8.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125115-CHN-INA
+560,125115-CHN-INA,4,China,Ru Zhang,True,22:47,22.78,9,0,4,4,0,0,2,3,3,100.0,1,1,100.0,2,2,100.0,17.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125115-CHN-INA
+561,125115-CHN-INA,4,China,Liwei Yang,False,18:47,18.78,13,2,3,1,0,1,2,5,6,83.3,3,4,75.0,0,0,0.0,17.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125115-CHN-INA
+562,125115-CHN-INA,4,China,Shuyu Yang,True,22:49,22.82,12,2,4,3,0,2,3,4,5,80.0,1,2,50.0,3,7,42.9,14.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125115-CHN-INA
+563,125115-CHN-INA,4,China,Yuan Li,True,14:35,14.58,1,0,4,2,0,0,1,0,3,0.0,0,2,0.0,1,2,50.0,3.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125115-CHN-INA
+564,125115-CHN-INA,4,China,Siyu Wang,False,11:57,11.95,6,0,2,2,0,0,0,1,4,25.0,0,1,0.0,4,5,80.0,6.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125115-CHN-INA
+565,125115-CHN-INA,4,Indonesia,Angelica Jennifer Candra,False,16:40,16.67,3,3,0,0,0,1,1,1,3,33.3,0,0,0.0,1,2,50.0,2.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125115-CHN-INA
+566,125115-CHN-INA,4,Indonesia,Clarita Antonio,False,18:35,18.58,6,3,2,2,0,4,1,2,5,40.0,2,3,66.7,0,0,0.0,6.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125115-CHN-INA
+567,125115-CHN-INA,4,Indonesia,Kim Pierre-Louis,True,23:20,23.33,16,6,0,1,0,2,1,6,14,42.9,0,0,0.0,4,5,80.0,12.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125115-CHN-INA
+568,125115-CHN-INA,4,Indonesia,Bella Alana Hasan,False,11:18,11.3,5,2,1,0,0,1,3,2,3,66.7,0,1,0.0,1,2,50.0,5.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125115-CHN-INA
+569,125115-CHN-INA,4,Indonesia,Nathania Claresta Orville,True,23:45,23.75,2,1,1,1,0,1,1,1,5,20.0,0,1,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125115-CHN-INA
+570,125115-CHN-INA,4,Indonesia,Jesslyn Angelique Aritonang,False,9:32,9.53,0,2,0,0,1,4,2,0,3,0.0,0,2,0.0,0,0,0.0,-4.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125115-CHN-INA
+571,125115-CHN-INA,4,Indonesia,Yuni Anggraeni,False,10:7,10.12,4,4,0,0,0,1,3,2,5,40.0,0,0,0.0,0,0,0.0,4.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125115-CHN-INA
+572,125115-CHN-INA,4,Indonesia,Adelaide Callista Wongsohardjo,True,21:3,21.05,0,1,1,0,0,3,4,0,2,0.0,0,1,0.0,0,0,0.0,-3.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125115-CHN-INA
+573,125115-CHN-INA,4,Indonesia,Faizzatus Shoimah,True,16:39,16.65,6,1,1,0,0,1,3,2,4,50.0,2,4,50.0,0,0,0.0,5.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125115-CHN-INA
+574,125115-CHN-INA,4,Indonesia,Priscilla Annabel Karen,True,14:58,14.97,6,0,2,1,1,2,1,2,6,33.3,0,2,0.0,2,2,100.0,4.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125115-CHN-INA
+575,125115-CHN-INA,4,Indonesia,Dewa Ayu Made Sriartha Kusuma,False,14:55,14.92,5,2,0,1,0,1,2,2,3,66.7,0,0,0.0,1,1,100.0,6.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125115-CHN-INA
+576,125115-CHN-INA,4,Indonesia,Agustin Elya Gradita Retong,False,19:8,19.13,6,2,5,0,0,2,3,3,7,42.9,0,3,0.0,0,0,0.0,7.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125115-CHN-INA
+577,125116-INA-NZL,5,Indonesia,Angelica Jennifer Candra,False,19:53,19.88,3,4,0,1,0,3,3,1,5,20.0,0,0,0.0,1,2,50.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125116-INA-NZL
+578,125116-INA-NZL,5,Indonesia,Clarita Antonio,False,14:30,14.5,6,2,0,0,0,2,1,2,11,18.2,2,8,25.0,0,0,0.0,-3.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125116-INA-NZL
+579,125116-INA-NZL,5,Indonesia,Kim Pierre-Louis,True,20:7,20.12,11,4,0,1,1,2,2,3,9,33.3,0,1,0.0,5,6,83.3,8.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125116-INA-NZL
+580,125116-INA-NZL,5,Indonesia,Bella Alana Hasan,False,14:35,14.58,3,1,1,0,0,1,2,0,4,0.0,0,0,0.0,3,4,75.0,-1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125116-INA-NZL
+581,125116-INA-NZL,5,Indonesia,Nathania Claresta Orville,True,14:33,14.55,0,3,1,1,0,2,0,0,8,0.0,0,2,0.0,0,0,0.0,-5.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125116-INA-NZL
+582,125116-INA-NZL,5,Indonesia,Jesslyn Angelique Aritonang,False,14:4,14.07,2,1,0,0,0,1,0,0,4,0.0,0,3,0.0,2,2,100.0,-2.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125116-INA-NZL
+583,125116-INA-NZL,5,Indonesia,Yuni Anggraeni,False,5:43,5.72,0,0,0,0,0,0,2,0,1,0.0,0,0,0.0,0,0,0.0,-1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125116-INA-NZL
+584,125116-INA-NZL,5,Indonesia,Adelaide Callista Wongsohardjo,True,19:4,19.07,6,2,2,1,0,3,1,3,5,60.0,0,2,0.0,0,0,0.0,6.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125116-INA-NZL
+585,125116-INA-NZL,5,Indonesia,Faizzatus Shoimah,True,21:58,21.97,2,1,2,1,0,0,2,1,9,11.1,0,4,0.0,0,0,0.0,-2.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125116-INA-NZL
+586,125116-INA-NZL,5,Indonesia,Priscilla Annabel Karen,True,16:40,16.67,5,0,0,2,0,1,1,2,8,25.0,1,3,33.3,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125116-INA-NZL
+587,125116-INA-NZL,5,Indonesia,Dewa Ayu Made Sriartha Kusuma,False,13:37,13.62,4,7,0,0,0,0,3,2,4,50.0,0,0,0.0,0,0,0.0,9.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125116-INA-NZL
+588,125116-INA-NZL,5,Indonesia,Agustin Elya Gradita Retong,False,25:16,25.27,3,2,4,3,0,1,1,1,3,33.3,1,2,50.0,0,0,0.0,9.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125116-INA-NZL
+589,125116-INA-NZL,5,New Zealand,Charlotte Whittaker,False,17:38,17.63,8,3,0,0,1,0,2,3,7,42.9,2,2,100.0,0,0,0.0,8.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125116-INA-NZL
+590,125116-INA-NZL,5,New Zealand,McKenna Dale,True,23:7,23.12,6,4,4,2,2,2,4,2,10,20.0,2,8,25.0,0,0,0.0,8.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125116-INA-NZL
+591,125116-INA-NZL,5,New Zealand,Tayla Dalton,False,22:49,22.82,3,3,2,1,0,2,1,1,4,25.0,1,2,50.0,0,0,0.0,4.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125116-INA-NZL
+592,125116-INA-NZL,5,New Zealand,Olivia Williams,False,10:6,10.1,6,1,1,1,0,1,0,2,3,66.7,2,2,100.0,0,0,0.0,7.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125116-INA-NZL
+593,125116-INA-NZL,5,New Zealand,Ritorya Tamilo,True,7:50,7.83,0,8,0,0,0,4,0,0,2,0.0,0,0,0.0,0,2,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125116-INA-NZL
+594,125116-INA-NZL,5,New Zealand,Ella Tofaeono,False,6:26,6.43,2,2,1,0,1,0,3,1,1,100.0,0,0,0.0,0,0,0.0,6.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125116-INA-NZL
+595,125116-INA-NZL,5,New Zealand,Esra McGoldrick,True,22:29,22.48,18,6,3,3,2,6,2,6,12,50.0,3,6,50.0,3,5,60.0,18.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125116-INA-NZL
+596,125116-INA-NZL,5,New Zealand,Ashlee Strawbridge,False,5:46,5.77,3,1,3,1,1,0,2,1,1,100.0,1,1,100.0,0,0,0.0,9.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125116-INA-NZL
+597,125116-INA-NZL,5,New Zealand,Rebecca Kathleen Pizzey,False,23:53,23.88,12,13,1,2,0,2,1,5,7,71.4,1,1,100.0,1,4,25.0,21.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125116-INA-NZL
+598,125116-INA-NZL,5,New Zealand,Pahlyss Hokianga,True,19:50,19.83,6,5,3,1,0,2,2,2,7,28.6,2,4,50.0,0,0,0.0,8.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125116-INA-NZL
+599,125116-INA-NZL,5,New Zealand,Bailey Flavell,False,14:25,14.42,3,1,2,0,0,2,0,1,4,25.0,0,1,0.0,1,2,50.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125116-INA-NZL
+600,125116-INA-NZL,5,New Zealand,Emilia Shearer,True,25:41,25.68,8,7,3,0,0,3,2,2,6,33.3,1,1,100.0,3,4,75.0,10.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125116-INA-NZL
+601,125117-KOR-INA,6,Korea,Yusun HONG,False,23:39,23.65,9,1,3,1,1,1,4,3,4,75.0,1,1,100.0,2,2,100.0,13.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125117-KOR-INA
+602,125117-KOR-INA,6,Korea,Myung Kuwan Lee,False,13:18,13.3,6,1,1,0,0,0,1,2,5,40.0,2,4,50.0,0,0,0.0,5.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125117-KOR-INA
+603,125117-KOR-INA,6,Korea,Haeran Lee,False,25:3,25.05,8,8,1,2,0,0,2,2,8,25.0,0,5,0.0,4,5,80.0,12.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125117-KOR-INA
+604,125117-KOR-INA,6,Korea,Yoolim Kang,False,20:19,20.32,11,3,3,0,0,1,0,3,8,37.5,3,8,37.5,2,3,66.7,10.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125117-KOR-INA
+605,125117-KOR-INA,6,Korea,Jihyun Park,True,25:4,25.07,18,5,7,3,0,4,3,6,10,60.0,3,5,60.0,3,3,100.0,25.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125117-KOR-INA
+606,125117-KOR-INA,6,Korea,Juyeon Lee,False,11:29,11.48,8,1,2,1,0,0,0,3,4,75.0,2,2,100.0,0,0,0.0,11.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125117-KOR-INA
+607,125117-KOR-INA,6,Korea,Jisu Park,True,7:41,7.68,6,2,3,0,0,0,2,3,4,75.0,0,0,0.0,0,1,0.0,9.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125117-KOR-INA
+608,125117-KOR-INA,6,Korea,Isaem Choi,True,17:53,17.88,7,3,1,0,0,3,1,3,4,75.0,1,2,50.0,0,0,0.0,7.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125117-KOR-INA
+609,125117-KOR-INA,6,Korea,Yeeun Heo,False,17:27,17.45,5,2,7,1,0,0,4,2,5,40.0,1,4,25.0,0,0,0.0,12.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125117-KOR-INA
+610,125117-KOR-INA,6,Korea,Leeseul Kang,False,0:0,0.0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125117-KOR-INA
+611,125117-KOR-INA,6,Korea,Heji An,True,15:56,15.93,2,0,6,0,0,0,1,0,1,0.0,0,0,0.0,2,2,100.0,7.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125117-KOR-INA
+612,125117-KOR-INA,6,Korea,Jihyun Shin,True,22:11,22.18,15,1,2,0,1,0,3,5,10,50.0,3,7,42.9,2,2,100.0,14.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125117-KOR-INA
+613,125117-KOR-INA,6,Indonesia,Angelica Jennifer Candra,False,12:13,12.22,9,4,0,0,0,0,1,4,8,50.0,0,0,0.0,1,2,50.0,8.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125117-KOR-INA
+614,125117-KOR-INA,6,Indonesia,Clarita Antonio,False,18:24,18.4,9,2,1,0,0,3,0,3,7,42.9,2,4,50.0,1,3,33.3,3.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125117-KOR-INA
+615,125117-KOR-INA,6,Indonesia,Kim Pierre-Louis,True,20:51,20.85,16,7,0,0,0,0,3,5,11,45.5,0,1,0.0,6,8,75.0,15.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125117-KOR-INA
+616,125117-KOR-INA,6,Indonesia,Bella Alana Hasan,False,15:17,15.28,2,3,3,0,0,1,0,0,2,0.0,0,0,0.0,2,2,100.0,5.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125117-KOR-INA
+617,125117-KOR-INA,6,Indonesia,Nathania Claresta Orville,False,14:1,14.02,2,2,0,0,0,2,0,1,5,20.0,0,3,0.0,0,0,0.0,-2.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125117-KOR-INA
+618,125117-KOR-INA,6,Indonesia,Jesslyn Angelique Aritonang,False,17:48,17.8,0,2,1,0,0,3,0,0,4,0.0,0,1,0.0,0,0,0.0,-4.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125117-KOR-INA
+619,125117-KOR-INA,6,Indonesia,Yuni Anggraeni,False,5:30,5.5,0,0,1,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125117-KOR-INA
+620,125117-KOR-INA,6,Indonesia,Adelaide Callista Wongsohardjo,True,15:32,15.53,2,0,3,0,0,2,3,1,2,50.0,0,1,0.0,0,0,0.0,2.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125117-KOR-INA
+621,125117-KOR-INA,6,Indonesia,Faizzatus Shoimah,True,21:36,21.6,11,2,1,0,0,0,1,4,7,57.1,3,6,50.0,0,0,0.0,11.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125117-KOR-INA
+622,125117-KOR-INA,6,Indonesia,Priscilla Annabel Karen,True,16:49,16.82,4,2,2,1,0,1,3,1,5,20.0,0,1,0.0,2,2,100.0,4.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125117-KOR-INA
+623,125117-KOR-INA,6,Indonesia,Dewa Ayu Made Sriartha Kusuma,False,19:17,19.28,2,6,3,1,0,1,1,0,2,0.0,0,0,0.0,2,4,50.0,7.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125117-KOR-INA
+624,125117-KOR-INA,6,Indonesia,Agustin Elya Gradita Retong,True,22:42,22.7,5,2,2,1,0,2,1,1,3,33.3,0,0,0.0,3,5,60.0,4.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125117-KOR-INA
+625,125118-JPN-AUS,7,Japan,Monica Okoye,False,6:31,6.52,2,0,0,0,0,0,0,1,2,50.0,0,0,0.0,0,0,0.0,1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125118-JPN-AUS
+626,125118-JPN-AUS,7,Japan,Miwa Kuribayashi,False,5:31,5.52,0,0,0,0,0,2,3,0,0,0.0,0,0,0.0,0,0,0.0,-2.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125118-JPN-AUS
+627,125118-JPN-AUS,7,Japan,Nanako Todo,False,16:53,16.88,3,2,2,0,0,0,0,1,8,12.5,1,5,20.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125118-JPN-AUS
+628,125118-JPN-AUS,7,Japan,Anri Hoshi,False,6:33,6.55,6,0,0,0,1,0,1,2,4,50.0,1,3,33.3,1,1,100.0,5.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125118-JPN-AUS
+629,125118-JPN-AUS,7,Japan,Yuki Miyazawa,False,22:48,22.8,4,3,2,1,0,1,5,2,3,66.7,0,1,0.0,0,0,0.0,8.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125118-JPN-AUS
+630,125118-JPN-AUS,7,Japan,Minami Yabu,False,16:37,16.62,4,3,0,1,0,0,1,1,3,33.3,1,3,33.3,1,2,50.0,5.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125118-JPN-AUS
+631,125118-JPN-AUS,7,Japan,Kokoro Tanaka,True,24:20,24.33,10,2,5,1,0,6,0,4,10,40.0,2,3,66.7,0,0,0.0,6.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125118-JPN-AUS
+632,125118-JPN-AUS,7,Japan,Ramu Tokashiki,True,21:15,21.25,8,2,1,1,2,1,2,2,3,66.7,2,3,66.7,2,2,100.0,12.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125118-JPN-AUS
+633,125118-JPN-AUS,7,Japan,Maki Takada,True,23:55,23.92,6,6,1,0,0,0,3,2,6,33.3,2,4,50.0,0,0,0.0,9.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125118-JPN-AUS
+634,125118-JPN-AUS,7,Japan,Mai Kawai,False,8:38,8.63,0,2,3,1,0,2,1,0,3,0.0,0,2,0.0,0,0,0.0,1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125118-JPN-AUS
+635,125118-JPN-AUS,7,Japan,Stephanie Mawuli,True,28:0,28.0,19,2,0,1,0,1,3,6,11,54.5,1,4,25.0,6,7,85.7,15.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125118-JPN-AUS
+636,125118-JPN-AUS,7,Japan,Norika Konno,True,18:59,18.98,5,6,2,1,0,1,2,2,5,40.0,1,2,50.0,0,0,0.0,10.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125118-JPN-AUS
+637,125118-JPN-AUS,7,Australia,Chloe Bibby,False,9:51,9.85,0,5,1,1,0,0,1,0,3,0.0,0,2,0.0,0,0,0.0,4.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125118-JPN-AUS
+638,125118-JPN-AUS,7,Australia,Alex Brooke Wilson,False,0:0,0.0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125118-JPN-AUS
+639,125118-JPN-AUS,7,Australia,Isabelle Bourne,False,10:27,10.45,2,4,0,0,1,1,0,1,4,25.0,0,1,0.0,0,0,0.0,3.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125118-JPN-AUS
+640,125118-JPN-AUS,7,Australia,Alexandra Fowler,True,27:31,27.52,11,5,2,1,0,1,2,5,11,45.5,1,3,33.3,0,0,0.0,12.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125118-JPN-AUS
+641,125118-JPN-AUS,7,Australia,Zitina Lusia Aokuso,False,20:33,20.55,14,8,3,1,1,2,1,4,6,66.7,0,0,0.0,6,8,75.0,21.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125118-JPN-AUS
+642,125118-JPN-AUS,7,Australia,Isobel Borlase,True,16:37,16.62,7,3,3,1,0,2,0,3,7,42.9,1,1,100.0,0,0,0.0,8.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125118-JPN-AUS
+643,125118-JPN-AUS,7,Australia,Sara Blicavs,True,23:24,23.4,13,4,0,1,0,0,0,4,11,36.4,1,4,25.0,4,5,80.0,10.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125118-JPN-AUS
+644,125118-JPN-AUS,7,Australia,Cayla George,True,18:12,18.2,8,4,1,0,0,1,2,2,8,25.0,1,5,20.0,3,4,75.0,5.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125118-JPN-AUS
+645,125118-JPN-AUS,7,Australia,Stephanie Reid,True,32:53,32.88,15,2,9,2,0,1,1,6,10,60.0,1,1,100.0,2,2,100.0,23.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125118-JPN-AUS
+646,125118-JPN-AUS,7,Australia,Abbey Ellis,False,7:20,7.33,2,0,1,1,0,0,2,0,0,0.0,0,0,0.0,2,2,100.0,4.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125118-JPN-AUS
+647,125118-JPN-AUS,7,Australia,Courtney Michelle Woods,False,26:32,26.53,3,3,1,0,0,2,3,1,4,25.0,1,3,33.3,0,0,0.0,2.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125118-JPN-AUS
+648,125118-JPN-AUS,7,Australia,Miela Goodchild,False,6:41,6.68,4,0,0,0,0,0,1,2,3,66.7,0,1,0.0,0,0,0.0,3.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125118-JPN-AUS
+649,125119-AUS-PHI,8,Australia,Isobel Borlase,True,22:12,22.2,10,3,1,1,0,2,1,4,7,57.1,1,3,33.3,1,4,25.0,7.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125119-AUS-PHI
+650,125119-AUS-PHI,8,Australia,Sara Blicavs,True,18:57,18.95,17,6,1,1,0,2,0,7,13,53.8,1,2,50.0,2,2,100.0,17.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125119-AUS-PHI
+651,125119-AUS-PHI,8,Australia,Cayla George,True,14:38,14.63,6,10,1,0,0,0,0,3,9,33.3,0,2,0.0,0,0,0.0,11.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125119-AUS-PHI
+652,125119-AUS-PHI,8,Australia,Stephanie Reid,True,19:3,19.05,5,2,9,2,0,0,3,2,4,50.0,1,2,50.0,0,0,0.0,16.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125119-AUS-PHI
+653,125119-AUS-PHI,8,Australia,Abbey Ellis,False,20:57,20.95,8,3,9,2,1,1,1,2,3,66.7,0,1,0.0,4,4,100.0,21.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125119-AUS-PHI
+654,125119-AUS-PHI,8,Australia,Courtney Michelle Woods,False,18:5,18.08,11,3,3,1,0,3,0,5,6,83.3,1,2,50.0,0,1,0.0,13.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125119-AUS-PHI
+655,125119-AUS-PHI,8,Australia,Miela Goodchild,False,17:25,17.42,19,1,1,1,1,0,0,7,10,70.0,3,6,50.0,2,2,100.0,20.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125119-AUS-PHI
+656,125119-AUS-PHI,8,Australia,Zitina Lusia Aokuso,False,16:2,16.03,4,7,3,1,0,4,1,1,3,33.3,0,0,0.0,2,2,100.0,9.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125119-AUS-PHI
+657,125119-AUS-PHI,8,Australia,Alexandra Fowler,True,18:1,18.02,11,5,5,0,1,1,1,5,6,83.3,1,1,100.0,0,0,0.0,20.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125119-AUS-PHI
+658,125119-AUS-PHI,8,Australia,Isabelle Bourne,False,14:46,14.77,8,4,1,1,0,0,2,3,5,60.0,1,3,33.3,1,1,100.0,12.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125119-AUS-PHI
+659,125119-AUS-PHI,8,Australia,Alex Brooke Wilson,False,0:0,0.0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125119-AUS-PHI
+660,125119-AUS-PHI,8,Australia,Chloe Bibby,False,19:54,19.9,16,10,2,0,0,2,0,7,10,70.0,2,4,50.0,0,0,0.0,23.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125119-AUS-PHI
+661,125119-AUS-PHI,8,Philippines,Khate Castillo,False,10:19,10.32,6,0,2,0,0,0,1,2,2,100.0,2,2,100.0,0,0,0.0,8.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125119-AUS-PHI
+662,125119-AUS-PHI,8,Philippines,Sumayah Sugapong,False,15:12,15.2,2,0,0,1,0,5,1,1,7,14.3,0,4,0.0,0,0,0.0,-8.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125119-AUS-PHI
+663,125119-AUS-PHI,8,Philippines,Vanessa De Jesus,True,29:56,29.93,9,3,1,0,0,4,0,4,7,57.1,1,3,33.3,0,0,0.0,6.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125119-AUS-PHI
+664,125119-AUS-PHI,8,Philippines,Yvette Marie Villanueva,False,2:8,2.13,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125119-AUS-PHI
+665,125119-AUS-PHI,8,Philippines,Ella Fajardo,False,7:51,7.85,0,1,0,0,0,1,1,0,2,0.0,0,1,0.0,0,0,0.0,-2.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125119-AUS-PHI
+666,125119-AUS-PHI,8,Philippines,Angelica Surada,False,13:44,13.73,2,2,1,0,0,0,0,1,2,50.0,0,0,0.0,0,0,0.0,4.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125119-AUS-PHI
+667,125119-AUS-PHI,8,Philippines,Louna Ozar,True,23:19,23.32,2,1,0,1,0,2,1,1,4,25.0,0,1,0.0,0,0,0.0,-1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125119-AUS-PHI
+668,125119-AUS-PHI,8,Philippines,Jack Animam,True,29:56,29.93,2,5,0,2,0,0,1,1,11,9.1,0,0,0.0,0,2,0.0,-3.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125119-AUS-PHI
+669,125119-AUS-PHI,8,Philippines,Quinn Kacey Dela Rosa,False,16:47,16.78,0,3,0,1,0,2,3,0,3,0.0,0,0,0.0,0,2,0.0,-3.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125119-AUS-PHI
+670,125119-AUS-PHI,8,Philippines,Kent Jane Pastrana,True,25:9,25.15,8,1,1,0,0,4,3,3,14,21.4,2,8,25.0,0,0,0.0,-5.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125119-AUS-PHI
+671,125119-AUS-PHI,8,Philippines,Naomi Natalie Panganiban,True,20:25,20.42,8,3,2,0,0,2,2,4,10,40.0,0,3,0.0,0,0,0.0,5.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125119-AUS-PHI
+672,125119-AUS-PHI,8,Philippines,Cielo Pagdulagan,False,5:14,5.23,0,0,0,0,0,1,0,0,1,0.0,0,0,0.0,0,0,0.0,-2.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125119-AUS-PHI
+673,125120-PHI-JPN,9,Philippines,Cielo Pagdulagan,False,2:42,2.7,0,0,0,0,0,0,0,0,1,0.0,0,0,0.0,0,0,0.0,-1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125120-PHI-JPN
+674,125120-PHI-JPN,9,Philippines,Naomi Natalie Panganiban,True,24:43,24.72,13,3,2,0,0,2,2,5,10,50.0,3,5,60.0,0,0,0.0,11.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125120-PHI-JPN
+675,125120-PHI-JPN,9,Philippines,Kent Jane Pastrana,False,13:0,13.0,0,0,3,0,0,3,3,0,7,0.0,0,3,0.0,0,0,0.0,-7.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125120-PHI-JPN
+676,125120-PHI-JPN,9,Philippines,Quinn Kacey Dela Rosa,False,21:8,21.13,4,7,1,2,2,1,2,2,4,50.0,0,2,0.0,0,0,0.0,13.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125120-PHI-JPN
+677,125120-PHI-JPN,9,Philippines,Jack Animam,True,29:48,29.8,24,14,3,1,2,1,3,10,18,55.6,0,1,0.0,4,8,50.0,31.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125120-PHI-JPN
+678,125120-PHI-JPN,9,Philippines,Louna Ozar,True,19:20,19.33,2,0,3,0,0,2,1,1,2,50.0,0,0,0.0,0,0,0.0,2.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125120-PHI-JPN
+679,125120-PHI-JPN,9,Philippines,Angelica Surada,True,18:4,18.07,6,3,0,3,1,0,0,3,4,75.0,0,0,0.0,0,0,0.0,12.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125120-PHI-JPN
+680,125120-PHI-JPN,9,Philippines,Ella Fajardo,False,6:16,6.27,3,0,0,1,0,0,1,1,2,50.0,1,2,50.0,0,0,0.0,3.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125120-PHI-JPN
+681,125120-PHI-JPN,9,Philippines,Yvette Marie Villanueva,False,6:12,6.2,0,0,1,1,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,2.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125120-PHI-JPN
+682,125120-PHI-JPN,9,Philippines,Vanessa De Jesus,True,31:2,31.03,13,1,6,0,0,2,3,5,9,55.6,1,3,33.3,2,2,100.0,14.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125120-PHI-JPN
+683,125120-PHI-JPN,9,Philippines,Sumayah Sugapong,False,18:16,18.27,12,2,2,4,0,1,2,5,9,55.6,2,4,50.0,0,2,0.0,13.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125120-PHI-JPN
+684,125120-PHI-JPN,9,Philippines,Khate Castillo,False,9:29,9.48,5,0,0,0,0,1,2,2,3,66.7,1,1,100.0,0,0,0.0,3.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125120-PHI-JPN
+685,125120-PHI-JPN,9,Japan,Monica Okoye,False,19:5,19.08,8,2,1,0,0,1,1,3,9,33.3,0,4,0.0,2,2,100.0,4.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125120-PHI-JPN
+686,125120-PHI-JPN,9,Japan,Miwa Kuribayashi,False,17:16,17.27,2,5,0,1,0,0,1,1,3,33.3,0,1,0.0,0,2,0.0,4.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125120-PHI-JPN
+687,125120-PHI-JPN,9,Japan,Nanako Todo,False,16:21,16.35,8,1,1,0,0,1,2,2,4,50.0,0,2,0.0,4,4,100.0,7.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125120-PHI-JPN
+688,125120-PHI-JPN,9,Japan,Anri Hoshi,False,14:39,14.65,4,2,3,2,0,1,2,0,5,0.0,0,4,0.0,4,4,100.0,5.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125120-PHI-JPN
+689,125120-PHI-JPN,9,Japan,Yuki Miyazawa,False,17:24,17.4,5,8,3,0,2,0,0,1,6,16.7,1,5,20.0,2,2,100.0,13.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125120-PHI-JPN
+690,125120-PHI-JPN,9,Japan,Minami Yabu,False,21:19,21.32,15,1,0,1,0,2,0,5,8,62.5,5,8,62.5,0,0,0.0,12.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125120-PHI-JPN
+691,125120-PHI-JPN,9,Japan,Kokoro Tanaka,True,21:19,21.32,3,1,7,1,0,7,3,1,2,50.0,1,1,100.0,0,0,0.0,4.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125120-PHI-JPN
+692,125120-PHI-JPN,9,Japan,Ramu Tokashiki,True,10:24,10.4,3,2,0,0,0,0,1,1,1,100.0,1,1,100.0,0,0,0.0,5.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125120-PHI-JPN
+693,125120-PHI-JPN,9,Japan,Maki Takada,True,15:51,15.85,20,3,1,0,0,0,0,7,10,70.0,5,6,83.3,1,1,100.0,21.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125120-PHI-JPN
+694,125120-PHI-JPN,9,Japan,Mai Kawai,False,12:39,12.65,2,1,5,2,0,1,2,1,2,50.0,0,1,0.0,0,0,0.0,8.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125120-PHI-JPN
+695,125120-PHI-JPN,9,Japan,Stephanie Mawuli,True,13:50,13.83,6,1,1,0,2,1,1,2,6,33.3,0,2,0.0,2,2,100.0,5.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125120-PHI-JPN
+696,125120-PHI-JPN,9,Japan,Norika Konno,True,19:53,19.88,9,4,0,0,0,2,2,4,7,57.1,1,4,25.0,0,0,0.0,8.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125120-PHI-JPN
+697,125121-JPN-LBN,10,Japan,Mai Kawai,False,6:34,6.57,2,0,1,0,0,0,2,1,3,33.3,0,2,0.0,0,0,0.0,1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125121-JPN-LBN
+698,125121-JPN-LBN,10,Japan,Stephanie Mawuli,True,20:12,20.2,5,6,4,0,0,1,2,2,9,22.2,1,4,25.0,0,0,0.0,7.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125121-JPN-LBN
+699,125121-JPN-LBN,10,Japan,Norika Konno,True,20:23,20.38,4,1,3,1,1,3,1,2,5,40.0,0,3,0.0,0,2,0.0,2.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125121-JPN-LBN
+700,125121-JPN-LBN,10,Japan,Maki Takada,True,22:23,22.38,7,6,3,1,0,1,0,2,6,33.3,1,3,33.3,2,2,100.0,12.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125121-JPN-LBN
+701,125121-JPN-LBN,10,Japan,Ramu Tokashiki,True,23:19,23.32,4,4,2,0,0,2,0,2,3,66.7,0,0,0.0,0,0,0.0,7.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125121-JPN-LBN
+702,125121-JPN-LBN,10,Japan,Kokoro Tanaka,True,23:4,23.07,11,2,3,1,0,3,4,3,7,42.9,2,6,33.3,3,4,75.0,9.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125121-JPN-LBN
+703,125121-JPN-LBN,10,Japan,Minami Yabu,False,23:0,23.0,19,1,1,2,1,2,2,7,14,50.0,5,12,41.7,0,0,0.0,15.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125121-JPN-LBN
+704,125121-JPN-LBN,10,Japan,Yuki Miyazawa,False,21:58,21.97,9,5,3,0,1,0,2,3,6,50.0,3,5,60.0,0,0,0.0,15.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125121-JPN-LBN
+705,125121-JPN-LBN,10,Japan,Anri Hoshi,False,8:30,8.5,6,0,0,0,0,1,1,2,5,40.0,2,5,40.0,0,0,0.0,2.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125121-JPN-LBN
+706,125121-JPN-LBN,10,Japan,Nanako Todo,False,18:17,18.28,3,1,1,2,1,0,3,1,7,14.3,1,6,16.7,0,0,0.0,2.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125121-JPN-LBN
+707,125121-JPN-LBN,10,Japan,Miwa Kuribayashi,False,3:14,3.23,2,0,0,1,0,1,1,1,2,50.0,0,0,0.0,0,0,0.0,1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125121-JPN-LBN
+708,125121-JPN-LBN,10,Japan,Monica Okoye,False,9:6,9.1,0,0,0,0,0,1,1,0,3,0.0,0,1,0.0,0,0,0.0,-4.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125121-JPN-LBN
+709,125121-JPN-LBN,10,Lebanon,Melody Saneh,False,0:0,0.0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125121-JPN-LBN
+710,125121-JPN-LBN,10,Lebanon,Zena Ramiz Elias,True,12:54,12.9,2,6,1,0,0,2,1,1,6,16.7,0,0,0.0,0,0,0.0,2.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125121-JPN-LBN
+711,125121-JPN-LBN,10,Lebanon,Maygen Naassan,False,12:37,12.62,0,2,0,0,0,0,0,0,2,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125121-JPN-LBN
+712,125121-JPN-LBN,10,Lebanon,Maria Ghaleb,False,27:37,27.62,4,6,0,2,0,2,1,1,6,16.7,0,2,0.0,2,2,100.0,5.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125121-JPN-LBN
+713,125121-JPN-LBN,10,Lebanon,Daniella Fayad,True,28:47,28.78,6,5,0,1,1,1,1,2,6,33.3,0,1,0.0,2,2,100.0,8.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125121-JPN-LBN
+714,125121-JPN-LBN,10,Lebanon,Nour Labban,False,0:0,0.0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125121-JPN-LBN
+715,125121-JPN-LBN,10,Lebanon,Tina Rita Raffoul,False,6:41,6.68,0,4,0,0,0,0,1,0,1,0.0,0,0,0.0,0,0,0.0,3.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125121-JPN-LBN
+716,125121-JPN-LBN,10,Lebanon,Rebecca Akl,True,33:33,33.55,27,5,0,0,0,8,2,8,16,50.0,2,6,33.3,9,14,64.3,11.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125121-JPN-LBN
+717,125121-JPN-LBN,10,Lebanon,Jillian Archer,True,37:22,37.37,10,12,1,2,1,2,2,4,10,40.0,0,0,0.0,2,2,100.0,18.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125121-JPN-LBN
+718,125121-JPN-LBN,10,Lebanon,PERLA BOU NASR,False,4:9,4.15,0,0,0,1,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125121-JPN-LBN
+719,125121-JPN-LBN,10,Lebanon,Mariam Jomaa,False,0:0,0.0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125121-JPN-LBN
+720,125121-JPN-LBN,10,Lebanon,Amar Mansour,True,36:20,36.33,19,7,5,2,0,3,4,7,15,46.7,0,4,0.0,5,6,83.3,21.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125121-JPN-LBN
+721,125122-LBN-AUS,11,Lebanon,Amar Mansour,True,6:35,6.58,0,1,0,0,0,1,0,0,2,0.0,0,0,0.0,0,0,0.0,-2.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125122-LBN-AUS
+722,125122-LBN-AUS,11,Lebanon,Mariam Jomaa,False,16:49,16.82,3,2,0,1,0,2,0,1,2,50.0,1,2,50.0,0,0,0.0,3.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125122-LBN-AUS
+723,125122-LBN-AUS,11,Lebanon,PERLA BOU NASR,False,17:26,17.43,0,0,0,0,0,1,0,0,5,0.0,0,3,0.0,0,0,0.0,-6.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125122-LBN-AUS
+724,125122-LBN-AUS,11,Lebanon,Jillian Archer,True,10:0,10.0,2,2,0,0,0,1,1,0,2,0.0,0,0,0.0,2,2,100.0,1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125122-LBN-AUS
+725,125122-LBN-AUS,11,Lebanon,Rebecca Akl,True,7:5,7.08,0,0,1,0,0,2,1,0,1,0.0,0,1,0.0,0,0,0.0,-2.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125122-LBN-AUS
+726,125122-LBN-AUS,11,Lebanon,Tina Rita Raffoul,False,30:51,30.85,9,3,2,0,0,5,5,3,8,37.5,1,5,20.0,2,3,66.7,3.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125122-LBN-AUS
+727,125122-LBN-AUS,11,Lebanon,Nour Labban,False,27:29,27.48,11,0,1,2,0,6,1,4,13,30.8,2,6,33.3,1,2,50.0,-2.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125122-LBN-AUS
+728,125122-LBN-AUS,11,Lebanon,Daniella Fayad,True,5:54,5.9,0,0,0,0,0,0,0,0,1,0.0,0,1,0.0,0,0,0.0,-1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125122-LBN-AUS
+729,125122-LBN-AUS,11,Lebanon,Maria Ghaleb,False,27:6,27.1,2,1,1,0,0,1,2,1,5,20.0,0,0,0.0,0,0,0.0,-1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125122-LBN-AUS
+730,125122-LBN-AUS,11,Lebanon,Maygen Naassan,False,26:11,26.18,4,7,2,0,0,1,0,2,13,15.4,0,2,0.0,0,0,0.0,1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125122-LBN-AUS
+731,125122-LBN-AUS,11,Lebanon,Zena Ramiz Elias,True,5:54,5.9,2,1,0,0,0,0,0,1,4,25.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125122-LBN-AUS
+732,125122-LBN-AUS,11,Lebanon,Melody Saneh,False,18:40,18.67,1,1,0,1,0,0,0,0,1,0.0,0,0,0.0,1,2,50.0,1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125122-LBN-AUS
+733,125122-LBN-AUS,11,Australia,Chloe Bibby,False,19:25,19.42,12,12,4,0,0,3,1,5,7,71.4,1,3,33.3,1,1,100.0,23.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125122-LBN-AUS
+734,125122-LBN-AUS,11,Australia,Alex Brooke Wilson,False,0:0,0.0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125122-LBN-AUS
+735,125122-LBN-AUS,11,Australia,Isabelle Bourne,False,22:16,22.27,15,4,3,3,0,0,2,6,12,50.0,2,5,40.0,1,2,50.0,18.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125122-LBN-AUS
+736,125122-LBN-AUS,11,Australia,Alexandra Fowler,True,19:40,19.67,11,8,6,1,0,0,3,4,6,66.7,1,1,100.0,2,4,50.0,22.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125122-LBN-AUS
+737,125122-LBN-AUS,11,Australia,Zitina Lusia Aokuso,False,0:0,0.0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125122-LBN-AUS
+738,125122-LBN-AUS,11,Australia,Isobel Borlase,True,22:30,22.5,8,3,2,2,0,1,0,4,10,40.0,0,5,0.0,0,0,0.0,8.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125122-LBN-AUS
+739,125122-LBN-AUS,11,Australia,Sara Blicavs,True,17:38,17.63,11,7,3,2,0,0,1,4,7,57.1,3,4,75.0,0,0,0.0,20.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125122-LBN-AUS
+740,125122-LBN-AUS,11,Australia,Cayla George,True,17:3,17.05,7,10,2,0,0,2,2,2,8,25.0,1,4,25.0,2,2,100.0,11.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125122-LBN-AUS
+741,125122-LBN-AUS,11,Australia,Stephanie Reid,True,17:34,17.57,14,1,7,0,0,0,2,5,7,71.4,4,6,66.7,0,0,0.0,20.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125122-LBN-AUS
+742,125122-LBN-AUS,11,Australia,Abbey Ellis,False,22:23,22.38,14,4,4,3,0,1,1,6,7,85.7,2,3,66.7,0,0,0.0,23.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125122-LBN-AUS
+743,125122-LBN-AUS,11,Australia,Courtney Michelle Woods,False,22:16,22.27,11,6,7,2,0,0,0,5,8,62.5,1,2,50.0,0,0,0.0,23.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125122-LBN-AUS
+744,125122-LBN-AUS,11,Australia,Miela Goodchild,False,19:15,19.25,10,3,1,2,0,2,1,4,9,44.4,2,5,40.0,0,0,0.0,9.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125122-LBN-AUS
+745,125123-PHI-LBN,12,Philippines,Cielo Pagdulagan,False,2:2,2.03,0,2,0,0,0,0,0,0,1,0.0,0,0,0.0,0,0,0.0,1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125123-PHI-LBN
+746,125123-PHI-LBN,12,Philippines,Naomi Natalie Panganiban,True,31:15,31.25,15,4,3,1,0,1,2,5,16,31.3,2,9,22.2,3,3,100.0,11.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125123-PHI-LBN
+747,125123-PHI-LBN,12,Philippines,Kent Jane Pastrana,False,14:43,14.72,7,1,0,0,0,2,1,3,6,50.0,1,3,33.3,0,0,0.0,3.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125123-PHI-LBN
+748,125123-PHI-LBN,12,Philippines,Quinn Kacey Dela Rosa,False,22:3,22.05,10,5,0,3,1,1,5,5,8,62.5,0,2,0.0,0,0,0.0,15.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125123-PHI-LBN
+749,125123-PHI-LBN,12,Philippines,Jack Animam,True,32:25,32.42,14,16,5,3,0,2,4,6,11,54.5,0,0,0.0,2,8,25.0,25.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125123-PHI-LBN
+750,125123-PHI-LBN,12,Philippines,Louna Ozar,True,16:8,16.13,0,1,3,1,0,0,3,0,4,0.0,0,3,0.0,0,0,0.0,1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125123-PHI-LBN
+751,125123-PHI-LBN,12,Philippines,Angelica Surada,True,18:11,18.18,0,1,1,0,0,0,2,0,3,0.0,0,1,0.0,0,0,0.0,-1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125123-PHI-LBN
+752,125123-PHI-LBN,12,Philippines,Ella Fajardo,False,1:58,1.97,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125123-PHI-LBN
+753,125123-PHI-LBN,12,Philippines,Yvette Marie Villanueva,False,0:0,0.0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125123-PHI-LBN
+754,125123-PHI-LBN,12,Philippines,Vanessa De Jesus,True,33:53,33.88,13,4,2,1,0,4,2,5,15,33.3,1,7,14.3,2,2,100.0,6.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125123-PHI-LBN
+755,125123-PHI-LBN,12,Philippines,Sumayah Sugapong,False,22:44,22.73,14,5,3,2,0,1,3,6,15,40.0,0,4,0.0,2,2,100.0,14.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125123-PHI-LBN
+756,125123-PHI-LBN,12,Philippines,Khate Castillo,False,4:38,4.63,0,0,1,0,0,0,0,0,1,0.0,0,1,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125123-PHI-LBN
+757,125123-PHI-LBN,12,Lebanon,Amar Mansour,True,30:46,30.77,7,9,1,0,0,7,1,2,7,28.6,1,3,33.3,2,2,100.0,5.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125123-PHI-LBN
+758,125123-PHI-LBN,12,Lebanon,Mariam Jomaa,False,0:0,0.0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125123-PHI-LBN
+759,125123-PHI-LBN,12,Lebanon,PERLA BOU NASR,False,0:0,0.0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125123-PHI-LBN
+760,125123-PHI-LBN,12,Lebanon,Jillian Archer,True,34:32,34.53,23,10,3,1,0,4,4,9,14,64.3,0,1,0.0,5,7,71.4,26.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125123-PHI-LBN
+761,125123-PHI-LBN,12,Lebanon,Rebecca Akl,True,34:34,34.57,13,7,4,1,0,4,3,2,9,22.2,1,4,25.0,8,11,72.7,11.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125123-PHI-LBN
+762,125123-PHI-LBN,12,Lebanon,Tina Rita Raffoul,False,9:51,9.85,0,0,0,1,0,1,3,0,1,0.0,0,1,0.0,0,0,0.0,-1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125123-PHI-LBN
+763,125123-PHI-LBN,12,Lebanon,Nour Labban,False,4:23,4.38,2,0,1,0,0,2,0,1,1,100.0,0,0,0.0,0,0,0.0,1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125123-PHI-LBN
+764,125123-PHI-LBN,12,Lebanon,Daniella Fayad,True,20:42,20.7,3,5,2,0,0,0,1,1,6,16.7,1,6,16.7,0,0,0.0,5.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125123-PHI-LBN
+765,125123-PHI-LBN,12,Lebanon,Maria Ghaleb,False,15:59,15.98,6,1,2,1,1,1,4,3,7,42.9,0,2,0.0,0,0,0.0,6.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125123-PHI-LBN
+766,125123-PHI-LBN,12,Lebanon,Maygen Naassan,False,24:18,24.3,6,2,2,2,0,1,1,0,1,0.0,0,0,0.0,6,8,75.0,8.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125123-PHI-LBN
+767,125123-PHI-LBN,12,Lebanon,Zena Ramiz Elias,True,24:55,24.92,10,6,1,0,0,2,1,5,12,41.7,0,3,0.0,0,0,0.0,8.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125123-PHI-LBN
+768,125123-PHI-LBN,12,Lebanon,Melody Saneh,False,0:0,0.0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/125123-PHI-LBN
+769,126778-KOR-PHI,13,Korea,Yusun HONG,False,8:29,8.48,2,3,1,0,0,1,5,1,1,100.0,0,0,0.0,0,0,0.0,5.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126778-KOR-PHI
+770,126778-KOR-PHI,13,Korea,Myung Kuwan Lee,False,17:38,17.63,6,2,3,2,0,1,2,2,4,50.0,2,3,66.7,0,0,0.0,10.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126778-KOR-PHI
+771,126778-KOR-PHI,13,Korea,Haeran Lee,False,19:45,19.75,24,3,1,1,0,0,2,10,13,76.9,3,4,75.0,1,2,50.0,25.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126778-KOR-PHI
+772,126778-KOR-PHI,13,Korea,Yoolim Kang,True,21:26,21.43,21,2,2,1,0,1,1,6,9,66.7,6,9,66.7,3,3,100.0,22.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126778-KOR-PHI
+773,126778-KOR-PHI,13,Korea,Jihyun Park,True,28:46,28.77,15,9,5,4,0,1,0,6,13,46.2,2,6,33.3,1,2,50.0,24.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126778-KOR-PHI
+774,126778-KOR-PHI,13,Korea,Juyeon Lee,False,0:0,0.0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126778-KOR-PHI
+775,126778-KOR-PHI,13,Korea,Jisu Park,True,19:26,19.43,14,7,3,3,2,2,1,6,12,50.0,0,1,0.0,2,2,100.0,21.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126778-KOR-PHI
+776,126778-KOR-PHI,13,Korea,Isaem Choi,True,22:32,22.53,6,3,1,0,0,2,1,3,6,50.0,0,3,0.0,0,0,0.0,5.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126778-KOR-PHI
+777,126778-KOR-PHI,13,Korea,Yeeun Heo,False,21:25,21.42,7,3,8,2,0,0,3,3,6,50.0,0,2,0.0,1,1,100.0,17.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126778-KOR-PHI
+778,126778-KOR-PHI,13,Korea,Leeseul Kang,False,0:0,0.0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126778-KOR-PHI
+779,126778-KOR-PHI,13,Korea,Heji An,True,18:35,18.58,0,1,5,0,0,3,1,0,2,0.0,0,1,0.0,0,0,0.0,1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126778-KOR-PHI
+780,126778-KOR-PHI,13,Korea,Jihyun Shin,False,21:58,21.97,9,0,4,0,0,1,1,3,6,50.0,3,4,75.0,0,0,0.0,9.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126778-KOR-PHI
+781,126778-KOR-PHI,13,Philippines,Cielo Pagdulagan,False,0:0,0.0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126778-KOR-PHI
+782,126778-KOR-PHI,13,Philippines,Naomi Natalie Panganiban,True,25:35,25.58,19,4,3,2,0,0,2,6,14,42.9,3,9,33.3,4,4,100.0,20.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126778-KOR-PHI
+783,126778-KOR-PHI,13,Philippines,Kent Jane Pastrana,False,19:12,19.2,8,6,2,2,0,2,2,3,11,27.3,1,5,20.0,1,2,50.0,7.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126778-KOR-PHI
+784,126778-KOR-PHI,13,Philippines,Quinn Kacey Dela Rosa,False,20:44,20.73,10,4,2,1,1,1,0,4,6,66.7,0,1,0.0,2,4,50.0,13.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126778-KOR-PHI
+785,126778-KOR-PHI,13,Philippines,Jack Animam,True,26:14,26.23,3,7,2,3,0,2,2,1,6,16.7,0,0,0.0,1,2,50.0,7.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126778-KOR-PHI
+786,126778-KOR-PHI,13,Philippines,Louna Ozar,True,21:24,21.4,10,1,3,0,0,3,2,4,7,57.1,2,2,100.0,0,0,0.0,8.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126778-KOR-PHI
+787,126778-KOR-PHI,13,Philippines,Angelica Surada,True,21:31,21.52,2,2,0,0,0,0,2,1,1,100.0,0,0,0.0,0,0,0.0,4.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126778-KOR-PHI
+788,126778-KOR-PHI,13,Philippines,Ella Fajardo,False,0:0,0.0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126778-KOR-PHI
+789,126778-KOR-PHI,13,Philippines,Yvette Marie Villanueva,False,1:51,1.85,0,0,1,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126778-KOR-PHI
+790,126778-KOR-PHI,13,Philippines,Vanessa De Jesus,True,33:58,33.97,15,2,3,0,0,6,0,6,14,42.9,3,5,60.0,0,0,0.0,6.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126778-KOR-PHI
+791,126778-KOR-PHI,13,Philippines,Sumayah Sugapong,False,21:26,21.43,4,0,1,1,0,3,2,1,5,20.0,0,1,0.0,2,2,100.0,-1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126778-KOR-PHI
+792,126778-KOR-PHI,13,Philippines,Khate Castillo,False,8:5,8.08,0,0,0,0,0,1,0,0,1,0.0,0,1,0.0,0,0,0.0,-2.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126778-KOR-PHI
+793,126779-JPN-NZL,14,Japan,Monica Okoye,False,9:49,9.82,3,1,0,0,1,0,1,1,2,50.0,1,1,100.0,0,0,0.0,4.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126779-JPN-NZL
+794,126779-JPN-NZL,14,Japan,Miwa Kuribayashi,False,6:50,6.83,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126779-JPN-NZL
+795,126779-JPN-NZL,14,Japan,Nanako Todo,False,18:46,18.77,9,3,1,0,0,1,2,3,7,42.9,3,5,60.0,0,0,0.0,8.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126779-JPN-NZL
+796,126779-JPN-NZL,14,Japan,Anri Hoshi,False,0:0,0.0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126779-JPN-NZL
+797,126779-JPN-NZL,14,Japan,Yuki Miyazawa,False,20:44,20.73,11,10,2,0,0,0,1,5,9,55.6,1,4,25.0,0,0,0.0,19.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126779-JPN-NZL
+798,126779-JPN-NZL,14,Japan,Minami Yabu,False,24:12,24.2,2,1,2,0,0,0,2,1,9,11.1,0,6,0.0,0,0,0.0,-3.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126779-JPN-NZL
+799,126779-JPN-NZL,14,Japan,Kokoro Tanaka,True,22:50,22.83,17,2,4,2,0,3,4,7,12,58.3,2,4,50.0,1,2,50.0,16.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126779-JPN-NZL
+800,126779-JPN-NZL,14,Japan,Ramu Tokashiki,True,17:26,17.43,5,5,1,1,0,2,3,2,4,50.0,0,1,0.0,1,2,50.0,7.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126779-JPN-NZL
+801,126779-JPN-NZL,14,Japan,Maki Takada,True,25:11,25.18,6,6,1,1,0,0,0,3,5,60.0,0,1,0.0,0,0,0.0,12.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126779-JPN-NZL
+802,126779-JPN-NZL,14,Japan,Mai Kawai,False,12:39,12.65,5,1,6,0,0,0,1,2,4,50.0,1,2,50.0,0,0,0.0,10.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126779-JPN-NZL
+803,126779-JPN-NZL,14,Japan,Stephanie Mawuli,True,15:11,15.18,6,1,0,1,0,2,2,1,3,33.3,1,3,33.3,3,6,50.0,1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126779-JPN-NZL
+804,126779-JPN-NZL,14,Japan,Norika Konno,True,26:22,26.37,13,2,4,1,1,1,2,6,11,54.5,1,3,33.3,0,0,0.0,15.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126779-JPN-NZL
+805,126779-JPN-NZL,14,New Zealand,Charlotte Whittaker,False,20:25,20.42,6,3,1,0,0,0,1,2,7,28.6,0,1,0.0,2,2,100.0,5.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126779-JPN-NZL
+806,126779-JPN-NZL,14,New Zealand,McKenna Dale,True,34:17,34.28,6,5,3,2,0,0,2,2,9,22.2,2,8,25.0,0,0,0.0,9.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126779-JPN-NZL
+807,126779-JPN-NZL,14,New Zealand,Tayla Dalton,True,33:24,33.4,9,4,1,2,0,5,2,2,11,18.2,1,4,25.0,4,5,80.0,1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126779-JPN-NZL
+808,126779-JPN-NZL,14,New Zealand,Olivia Williams,False,0:0,0.0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126779-JPN-NZL
+809,126779-JPN-NZL,14,New Zealand,Ritorya Tamilo,False,1:59,1.98,0,0,0,0,0,0,0,0,1,0.0,0,0,0.0,0,0,0.0,-1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126779-JPN-NZL
+810,126779-JPN-NZL,14,New Zealand,Ella Tofaeono,False,1:12,1.2,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126779-JPN-NZL
+811,126779-JPN-NZL,14,New Zealand,Esra McGoldrick,True,31:40,31.67,28,12,2,0,3,2,2,11,17,64.7,3,4,75.0,3,4,75.0,36.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126779-JPN-NZL
+812,126779-JPN-NZL,14,New Zealand,Ashlee Strawbridge,False,10:6,10.1,0,1,2,0,0,0,0,0,0,0.0,0,0,0.0,0,2,0.0,1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126779-JPN-NZL
+813,126779-JPN-NZL,14,New Zealand,Rebecca Kathleen Pizzey,True,24:44,24.73,7,7,3,2,0,2,2,3,8,37.5,0,2,0.0,1,2,50.0,11.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126779-JPN-NZL
+814,126779-JPN-NZL,14,New Zealand,Pahlyss Hokianga,False,10:22,10.37,2,1,3,0,0,2,0,1,2,50.0,0,1,0.0,0,0,0.0,3.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126779-JPN-NZL
+815,126779-JPN-NZL,14,New Zealand,Bailey Flavell,False,7:39,7.65,4,0,0,0,0,2,0,2,4,50.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126779-JPN-NZL
+816,126779-JPN-NZL,14,New Zealand,Emilia Shearer,True,24:12,24.2,0,2,2,0,1,2,2,0,4,0.0,0,3,0.0,0,0,0.0,-1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126779-JPN-NZL
+817,126780-INA-LBN,15,Indonesia,Angelica Jennifer Candra,False,0:0,0.0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126780-INA-LBN
+818,126780-INA-LBN,15,Indonesia,Clarita Antonio,False,18:40,18.67,3,1,1,0,0,1,0,1,4,25.0,1,4,25.0,0,0,0.0,1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126780-INA-LBN
+819,126780-INA-LBN,15,Indonesia,Kim Pierre-Louis,True,36:0,36.0,16,11,1,1,2,2,3,7,18,38.9,1,3,33.3,1,3,33.3,16.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126780-INA-LBN
+820,126780-INA-LBN,15,Indonesia,Bella Alana Hasan,False,8:25,8.42,3,0,0,0,0,2,1,1,3,33.3,1,1,100.0,0,0,0.0,-1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126780-INA-LBN
+821,126780-INA-LBN,15,Indonesia,Nathania Claresta Orville,False,5:44,5.73,2,0,0,0,0,0,0,1,2,50.0,0,1,0.0,0,0,0.0,1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126780-INA-LBN
+822,126780-INA-LBN,15,Indonesia,Jesslyn Angelique Aritonang,False,0:0,0.0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126780-INA-LBN
+823,126780-INA-LBN,15,Indonesia,Yuni Anggraeni,False,0:0,0.0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126780-INA-LBN
+824,126780-INA-LBN,15,Indonesia,Adelaide Callista Wongsohardjo,True,31:25,31.42,2,4,3,3,0,1,3,0,6,0.0,0,4,0.0,2,2,100.0,5.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126780-INA-LBN
+825,126780-INA-LBN,15,Indonesia,Faizzatus Shoimah,True,19:55,19.92,8,3,1,2,0,2,5,3,8,37.5,1,4,25.0,1,2,50.0,6.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126780-INA-LBN
+826,126780-INA-LBN,15,Indonesia,Priscilla Annabel Karen,True,12:22,12.37,6,1,1,0,0,1,3,1,3,33.3,0,1,0.0,4,6,66.7,3.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126780-INA-LBN
+827,126780-INA-LBN,15,Indonesia,Dewa Ayu Made Sriartha Kusuma,False,31:38,31.63,6,4,4,0,1,1,4,2,10,20.0,0,1,0.0,2,2,100.0,6.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126780-INA-LBN
+828,126780-INA-LBN,15,Indonesia,Agustin Elya Gradita Retong,True,35:51,35.85,11,3,8,4,0,4,3,3,6,50.0,1,3,33.3,4,4,100.0,19.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126780-INA-LBN
+829,126780-INA-LBN,15,Lebanon,Rebecca Akl,True,37:1,37.02,26,5,5,1,0,3,0,7,15,46.7,4,8,50.0,8,9,88.9,25.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126780-INA-LBN
+830,126780-INA-LBN,15,Lebanon,Tina Rita Raffoul,False,0:0,0.0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126780-INA-LBN
+831,126780-INA-LBN,15,Lebanon,Nour Labban,False,12:35,12.58,4,3,1,1,0,1,1,2,4,50.0,0,2,0.0,0,0,0.0,6.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126780-INA-LBN
+832,126780-INA-LBN,15,Lebanon,Daniella Fayad,True,28:8,28.13,7,7,0,0,0,2,2,2,9,22.2,2,8,25.0,1,2,50.0,4.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126780-INA-LBN
+833,126780-INA-LBN,15,Lebanon,Maria Ghaleb,False,21:21,21.35,4,1,1,0,1,1,1,2,6,33.3,0,1,0.0,0,1,0.0,1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126780-INA-LBN
+834,126780-INA-LBN,15,Lebanon,Maygen Naassan,False,23:26,23.43,0,4,2,0,1,1,1,0,4,0.0,0,4,0.0,0,0,0.0,2.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126780-INA-LBN
+835,126780-INA-LBN,15,Lebanon,Zena Ramiz Elias,True,14:11,14.18,7,7,1,3,0,3,3,3,8,37.5,0,0,0.0,1,2,50.0,9.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126780-INA-LBN
+836,126780-INA-LBN,15,Lebanon,Melody Saneh,False,0:0,0.0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126780-INA-LBN
+837,126780-INA-LBN,15,Lebanon,Amar Mansour,True,33:29,33.48,13,8,5,3,0,3,4,4,13,30.8,1,9,11.1,4,6,66.7,15.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126780-INA-LBN
+838,126780-INA-LBN,15,Lebanon,Mariam Jomaa,False,0:0,0.0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126780-INA-LBN
+839,126780-INA-LBN,15,Lebanon,PERLA BOU NASR,False,0:0,0.0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126780-INA-LBN
+840,126780-INA-LBN,15,Lebanon,Jillian Archer,True,29:49,29.82,6,12,3,0,1,2,3,3,10,30.0,0,0,0.0,0,0,0.0,13.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126780-INA-LBN
+841,126781-CHN-JPN,16,China,Saiqi Jia,False,1:6,1.1,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126781-CHN-JPN
+842,126781-CHN-JPN,16,China,Ruoyun Zhai,False,6:46,6.77,3,1,0,0,1,1,0,1,2,50.0,1,2,50.0,0,0,0.0,3.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126781-CHN-JPN
+843,126781-CHN-JPN,16,China,ZIYU ZHANG,False,19:12,19.2,17,9,0,0,0,4,2,7,14,50.0,0,0,0.0,3,4,75.0,14.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126781-CHN-JPN
+844,126781-CHN-JPN,16,China,Xinyu Luo,True,32:8,32.13,8,4,0,2,1,0,0,3,5,60.0,1,3,33.3,1,2,50.0,12.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126781-CHN-JPN
+845,126781-CHN-JPN,16,China,Xu Han,True,27:23,27.38,18,7,7,2,0,1,0,7,19,36.8,2,4,50.0,2,2,100.0,21.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126781-CHN-JPN
+846,126781-CHN-JPN,16,China,Zhenqi Pan,False,0:0,0.0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126781-CHN-JPN
+847,126781-CHN-JPN,16,China,Sijing Huang,False,15:17,15.28,3,3,4,0,0,1,1,1,6,16.7,0,5,0.0,1,1,100.0,4.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126781-CHN-JPN
+848,126781-CHN-JPN,16,China,Ru Zhang,True,18:8,18.13,1,5,2,0,0,1,2,0,2,0.0,0,0,0.0,1,4,25.0,2.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126781-CHN-JPN
+849,126781-CHN-JPN,16,China,Liwei Yang,False,27:54,27.9,7,2,9,1,0,3,2,3,7,42.9,1,4,25.0,0,0,0.0,12.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126781-CHN-JPN
+850,126781-CHN-JPN,16,China,Shuyu Yang,True,35:57,35.95,19,1,4,0,1,3,3,6,12,50.0,1,5,20.0,6,6,100.0,16.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126781-CHN-JPN
+851,126781-CHN-JPN,16,China,Yuan Li,True,3:25,3.42,0,1,0,0,0,0,0,0,1,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126781-CHN-JPN
+852,126781-CHN-JPN,16,China,Siyu Wang,False,12:44,12.73,5,2,2,0,0,1,1,2,2,100.0,0,0,0.0,1,1,100.0,8.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126781-CHN-JPN
+853,126781-CHN-JPN,16,Japan,Monica Okoye,False,2:53,2.88,3,0,0,0,0,0,1,1,2,50.0,1,2,50.0,0,0,0.0,2.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126781-CHN-JPN
+854,126781-CHN-JPN,16,Japan,Miwa Kuribayashi,False,7:16,7.27,2,3,0,0,0,0,2,1,4,25.0,0,0,0.0,0,0,0.0,2.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126781-CHN-JPN
+855,126781-CHN-JPN,16,Japan,Nanako Todo,False,13:25,13.42,8,1,1,1,0,0,3,3,6,50.0,2,5,40.0,0,0,0.0,8.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126781-CHN-JPN
+856,126781-CHN-JPN,16,Japan,Anri Hoshi,False,7:27,7.45,0,0,1,0,0,1,1,0,1,0.0,0,0,0.0,0,0,0.0,-1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126781-CHN-JPN
+857,126781-CHN-JPN,16,Japan,Yuki Miyazawa,False,26:30,26.5,18,9,5,1,0,5,1,6,10,60.0,4,6,66.7,2,2,100.0,24.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126781-CHN-JPN
+858,126781-CHN-JPN,16,Japan,Minami Yabu,False,11:5,11.08,0,2,1,0,0,1,2,0,3,0.0,0,2,0.0,0,0,0.0,-1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126781-CHN-JPN
+859,126781-CHN-JPN,16,Japan,Kokoro Tanaka,True,30:2,30.03,27,2,5,2,0,4,2,10,16,62.5,5,9,55.6,2,2,100.0,26.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126781-CHN-JPN
+860,126781-CHN-JPN,16,Japan,Ramu Tokashiki,True,18:53,18.88,5,3,1,0,0,0,3,2,6,33.3,0,0,0.0,1,2,50.0,4.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126781-CHN-JPN
+861,126781-CHN-JPN,16,Japan,Maki Takada,True,24:28,24.47,4,6,1,0,0,1,2,2,6,33.3,0,3,0.0,0,0,0.0,6.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126781-CHN-JPN
+862,126781-CHN-JPN,16,Japan,Mai Kawai,False,9:58,9.97,2,1,3,0,0,1,0,1,1,100.0,0,0,0.0,0,0,0.0,5.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126781-CHN-JPN
+863,126781-CHN-JPN,16,Japan,Stephanie Mawuli,True,27:24,27.4,7,4,1,2,1,0,2,3,5,60.0,1,3,33.3,0,0,0.0,13.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126781-CHN-JPN
+864,126781-CHN-JPN,16,Japan,Norika Konno,True,20:39,20.65,14,3,4,0,0,0,1,5,9,55.6,3,4,75.0,1,2,50.0,16.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126781-CHN-JPN
+865,126782-AUS-KOR,17,Australia,Chloe Bibby,False,14:8,14.13,12,3,2,0,0,1,0,2,5,40.0,1,3,33.3,7,8,87.5,12.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126782-AUS-KOR
+866,126782-AUS-KOR,17,Australia,Alex Brooke Wilson,False,9:35,9.58,1,1,1,0,0,2,0,0,1,0.0,0,0,0.0,1,2,50.0,-1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126782-AUS-KOR
+867,126782-AUS-KOR,17,Australia,Isabelle Bourne,False,2:20,2.33,1,1,0,0,0,0,0,0,1,0.0,0,0,0.0,1,2,50.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126782-AUS-KOR
+868,126782-AUS-KOR,17,Australia,Alexandra Fowler,True,30:33,30.55,11,12,4,5,0,1,2,3,6,50.0,0,0,0.0,5,7,71.4,26.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126782-AUS-KOR
+869,126782-AUS-KOR,17,Australia,Zitina Lusia Aokuso,False,9:45,9.75,3,1,0,1,0,0,1,1,3,33.3,0,0,0.0,1,1,100.0,3.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126782-AUS-KOR
+870,126782-AUS-KOR,17,Australia,Isobel Borlase,True,25:27,25.45,10,1,3,2,0,3,2,5,10,50.0,0,2,0.0,0,0,0.0,8.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126782-AUS-KOR
+871,126782-AUS-KOR,17,Australia,Sara Blicavs,True,31:45,31.75,14,6,3,0,0,1,1,4,12,33.3,4,9,44.4,2,4,50.0,12.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126782-AUS-KOR
+872,126782-AUS-KOR,17,Australia,Cayla George,True,29:53,29.88,20,13,1,0,1,0,2,9,15,60.0,1,4,25.0,1,2,50.0,28.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126782-AUS-KOR
+873,126782-AUS-KOR,17,Australia,Stephanie Reid,True,28:30,28.5,9,1,8,0,0,2,1,2,4,50.0,1,1,100.0,4,4,100.0,14.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126782-AUS-KOR
+874,126782-AUS-KOR,17,Australia,Abbey Ellis,False,2:56,2.93,0,1,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126782-AUS-KOR
+875,126782-AUS-KOR,17,Australia,Courtney Michelle Woods,False,13:17,13.28,5,3,2,0,0,0,0,1,2,50.0,0,1,0.0,3,3,100.0,9.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126782-AUS-KOR
+876,126782-AUS-KOR,17,Australia,Miela Goodchild,False,1:51,1.85,0,0,0,0,0,0,0,0,1,0.0,0,1,0.0,0,0,0.0,-1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126782-AUS-KOR
+877,126782-AUS-KOR,17,Korea,Yusun HONG,False,9:39,9.65,2,0,0,1,0,3,1,1,2,50.0,0,1,0.0,0,0,0.0,-1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126782-AUS-KOR
+878,126782-AUS-KOR,17,Korea,Myung Kuwan Lee,False,9:52,9.87,3,0,0,0,0,2,1,1,1,100.0,1,1,100.0,0,0,0.0,1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126782-AUS-KOR
+879,126782-AUS-KOR,17,Korea,Haeran Lee,True,22:6,22.1,5,5,1,2,0,0,3,2,6,33.3,1,3,33.3,0,0,0.0,9.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126782-AUS-KOR
+880,126782-AUS-KOR,17,Korea,Yoolim Kang,True,15:34,15.57,3,0,2,1,0,1,5,1,2,50.0,1,2,50.0,0,0,0.0,4.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126782-AUS-KOR
+881,126782-AUS-KOR,17,Korea,Jihyun Park,True,33:23,33.38,19,2,1,0,0,0,3,8,16,50.0,2,7,28.6,1,2,50.0,13.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126782-AUS-KOR
+882,126782-AUS-KOR,17,Korea,Juyeon Lee,False,0:0,0.0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126782-AUS-KOR
+883,126782-AUS-KOR,17,Korea,Jisu Park,True,21:7,21.12,6,5,3,0,0,3,3,2,10,20.0,0,2,0.0,2,2,100.0,3.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126782-AUS-KOR
+884,126782-AUS-KOR,17,Korea,Isaem Choi,False,29:8,29.13,10,0,4,0,0,0,2,4,9,44.4,2,4,50.0,0,0,0.0,9.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126782-AUS-KOR
+885,126782-AUS-KOR,17,Korea,Yeeun Heo,False,21:32,21.53,20,3,5,2,0,0,3,8,12,66.7,4,5,80.0,0,0,0.0,26.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126782-AUS-KOR
+886,126782-AUS-KOR,17,Korea,Leeseul Kang,False,0:0,0.0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126782-AUS-KOR
+887,126782-AUS-KOR,17,Korea,Heji An,True,18:28,18.47,1,5,4,0,0,1,1,0,2,0.0,0,1,0.0,1,2,50.0,6.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126782-AUS-KOR
+888,126782-AUS-KOR,17,Korea,Jihyun Shin,False,19:11,19.18,4,4,7,0,0,1,4,2,5,40.0,0,2,0.0,0,0,0.0,11.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126782-AUS-KOR
+889,126783-PHI-NZL,18,Philippines,Cielo Pagdulagan,False,0:0,0.0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126783-PHI-NZL
+890,126783-PHI-NZL,18,Philippines,Naomi Natalie Panganiban,True,30:30,30.5,11,2,2,3,0,2,0,3,12,25.0,0,3,0.0,5,7,71.4,5.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126783-PHI-NZL
+891,126783-PHI-NZL,18,Philippines,Kent Jane Pastrana,False,15:55,15.92,5,1,2,0,1,1,1,2,7,28.6,1,4,25.0,0,0,0.0,3.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126783-PHI-NZL
+892,126783-PHI-NZL,18,Philippines,Quinn Kacey Dela Rosa,False,17:18,17.3,3,4,1,1,6,1,4,1,5,20.0,0,1,0.0,1,2,50.0,9.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126783-PHI-NZL
+893,126783-PHI-NZL,18,Philippines,Jack Animam,True,32:23,32.38,9,8,4,4,4,1,2,4,10,40.0,0,0,0.0,1,4,25.0,19.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126783-PHI-NZL
+894,126783-PHI-NZL,18,Philippines,Louna Ozar,True,20:13,20.22,0,0,3,0,0,0,3,0,2,0.0,0,2,0.0,0,0,0.0,1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126783-PHI-NZL
+895,126783-PHI-NZL,18,Philippines,Angelica Surada,True,20:49,20.82,2,3,0,3,1,1,2,1,3,33.3,0,0,0.0,0,0,0.0,6.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126783-PHI-NZL
+896,126783-PHI-NZL,18,Philippines,Ella Fajardo,False,0:0,0.0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126783-PHI-NZL
+897,126783-PHI-NZL,18,Philippines,Yvette Marie Villanueva,False,0:0,0.0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126783-PHI-NZL
+898,126783-PHI-NZL,18,Philippines,Vanessa De Jesus,True,30:55,30.92,16,4,4,0,0,3,0,7,16,43.8,2,3,66.7,0,0,0.0,12.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126783-PHI-NZL
+899,126783-PHI-NZL,18,Philippines,Sumayah Sugapong,False,14:45,14.75,11,4,2,0,0,1,5,3,9,33.3,3,6,50.0,2,2,100.0,10.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126783-PHI-NZL
+900,126783-PHI-NZL,18,Philippines,Khate Castillo,False,17:12,17.2,14,1,1,0,0,0,2,4,7,57.1,4,7,57.1,2,2,100.0,13.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126783-PHI-NZL
+901,126783-PHI-NZL,18,New Zealand,Ashlee Strawbridge,False,13:27,13.45,6,3,0,0,0,0,0,3,6,50.0,0,2,0.0,0,0,0.0,6.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126783-PHI-NZL
+902,126783-PHI-NZL,18,New Zealand,Rebecca Kathleen Pizzey,True,24:12,24.2,6,10,3,0,1,2,2,1,3,33.3,0,0,0.0,4,4,100.0,16.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126783-PHI-NZL
+903,126783-PHI-NZL,18,New Zealand,Pahlyss Hokianga,False,4:54,4.9,0,0,0,0,0,1,0,0,1,0.0,0,0,0.0,0,0,0.0,-2.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126783-PHI-NZL
+904,126783-PHI-NZL,18,New Zealand,Bailey Flavell,False,9:33,9.55,0,2,0,0,1,2,0,0,4,0.0,0,3,0.0,0,0,0.0,-3.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126783-PHI-NZL
+905,126783-PHI-NZL,18,New Zealand,Emilia Shearer,True,28:59,28.98,16,6,4,0,1,3,1,6,12,50.0,2,6,33.3,2,3,66.7,17.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126783-PHI-NZL
+906,126783-PHI-NZL,18,New Zealand,Charlotte Whittaker,False,14:0,14.0,6,7,1,1,1,2,4,3,7,42.9,0,1,0.0,0,0,0.0,10.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126783-PHI-NZL
+907,126783-PHI-NZL,18,New Zealand,McKenna Dale,True,31:18,31.3,11,7,3,0,1,1,1,5,16,31.3,1,7,14.3,0,0,0.0,10.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126783-PHI-NZL
+908,126783-PHI-NZL,18,New Zealand,Tayla Dalton,True,31:49,31.82,6,2,4,2,0,1,1,3,8,37.5,0,0,0.0,0,3,0.0,5.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126783-PHI-NZL
+909,126783-PHI-NZL,18,New Zealand,Olivia Williams,False,0:0,0.0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126783-PHI-NZL
+910,126783-PHI-NZL,18,New Zealand,Ritorya Tamilo,False,12:8,12.13,4,10,3,1,2,1,0,2,6,33.3,0,0,0.0,0,0,0.0,15.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126783-PHI-NZL
+911,126783-PHI-NZL,18,New Zealand,Ella Tofaeono,False,5:22,5.37,6,5,1,0,0,2,1,2,4,50.0,0,0,0.0,2,2,100.0,8.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126783-PHI-NZL
+912,126783-PHI-NZL,18,New Zealand,Esra McGoldrick,True,24:18,24.3,17,7,2,1,2,2,4,6,15,40.0,2,7,28.6,3,4,75.0,17.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126783-PHI-NZL
+913,126784-KOR-CHN,19,Korea,Yusun HONG,False,10:19,10.32,0,2,2,0,0,1,0,0,2,0.0,0,0,0.0,0,0,0.0,1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126784-KOR-CHN
+914,126784-KOR-CHN,19,Korea,Myung Kuwan Lee,False,20:13,20.22,7,1,0,0,1,0,4,3,6,50.0,1,3,33.3,0,0,0.0,6.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126784-KOR-CHN
+915,126784-KOR-CHN,19,Korea,Haeran Lee,False,16:47,16.78,7,2,1,0,0,0,1,3,7,42.9,1,4,25.0,0,0,0.0,6.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126784-KOR-CHN
+916,126784-KOR-CHN,19,Korea,Yoolim Kang,True,17:22,17.37,7,1,0,0,0,0,2,3,6,50.0,1,3,33.3,0,0,0.0,5.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126784-KOR-CHN
+917,126784-KOR-CHN,19,Korea,Jihyun Park,True,30:14,30.23,3,8,4,0,0,1,2,1,7,14.3,1,4,25.0,0,0,0.0,8.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126784-KOR-CHN
+918,126784-KOR-CHN,19,Korea,Juyeon Lee,False,0:0,0.0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126784-KOR-CHN
+919,126784-KOR-CHN,19,Korea,Jisu Park,True,24:51,24.85,14,2,1,0,0,2,2,7,19,36.8,0,0,0.0,0,0,0.0,3.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126784-KOR-CHN
+920,126784-KOR-CHN,19,Korea,Isaem Choi,True,28:3,28.05,10,2,0,0,0,2,0,5,11,45.5,0,3,0.0,0,0,0.0,4.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126784-KOR-CHN
+921,126784-KOR-CHN,19,Korea,Yeeun Heo,False,14:20,14.33,11,2,6,0,0,1,3,4,7,57.1,1,2,50.0,2,2,100.0,15.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126784-KOR-CHN
+922,126784-KOR-CHN,19,Korea,Leeseul Kang,False,0:0,0.0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126784-KOR-CHN
+923,126784-KOR-CHN,19,Korea,Heji An,True,23:3,23.05,4,4,8,0,0,0,3,2,5,40.0,0,0,0.0,0,0,0.0,13.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126784-KOR-CHN
+924,126784-KOR-CHN,19,Korea,Jihyun Shin,False,14:48,14.8,3,0,1,1,0,0,4,1,4,25.0,1,3,33.3,0,0,0.0,2.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126784-KOR-CHN
+925,126784-KOR-CHN,19,China,Shuyu Yang,True,20:42,20.7,5,2,3,0,0,1,2,2,5,40.0,1,3,33.3,0,0,0.0,6.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126784-KOR-CHN
+926,126784-KOR-CHN,19,China,Yuan Li,True,18:0,18.0,0,3,2,1,0,1,1,0,3,0.0,0,1,0.0,0,0,0.0,2.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126784-KOR-CHN
+927,126784-KOR-CHN,19,China,Siyu Wang,False,16:32,16.53,19,7,7,0,1,0,2,6,8,75.0,0,1,0.0,7,10,70.0,29.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126784-KOR-CHN
+928,126784-KOR-CHN,19,China,Saiqi Jia,False,15:22,15.37,5,1,2,0,0,0,1,2,4,50.0,1,1,100.0,0,0,0.0,6.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126784-KOR-CHN
+929,126784-KOR-CHN,19,China,Ruoyun Zhai,False,23:55,23.92,3,4,1,0,0,0,2,1,1,100.0,1,1,100.0,0,0,0.0,8.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126784-KOR-CHN
+930,126784-KOR-CHN,19,China,ZIYU ZHANG,False,14:59,14.98,18,7,3,0,1,1,0,7,11,63.6,0,0,0.0,4,6,66.7,22.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126784-KOR-CHN
+931,126784-KOR-CHN,19,China,Xinyu Luo,True,17:6,17.1,15,4,1,3,0,0,0,4,11,36.4,3,7,42.9,4,4,100.0,16.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126784-KOR-CHN
+932,126784-KOR-CHN,19,China,Xu Han,True,25:23,25.38,16,6,0,0,3,2,1,8,16,50.0,0,2,0.0,0,0,0.0,15.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126784-KOR-CHN
+933,126784-KOR-CHN,19,China,Zhenqi Pan,False,4:18,4.3,0,0,0,0,0,0,1,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126784-KOR-CHN
+934,126784-KOR-CHN,19,China,Sijing Huang,False,4:20,4.33,4,3,2,1,0,0,0,2,2,100.0,0,0,0.0,0,0,0.0,10.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126784-KOR-CHN
+935,126784-KOR-CHN,19,China,Ru Zhang,True,19:14,19.23,2,2,2,0,0,1,2,1,1,100.0,0,0,0.0,0,0,0.0,5.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126784-KOR-CHN
+936,126784-KOR-CHN,19,China,Liwei Yang,False,20:9,20.15,14,1,4,0,0,3,2,5,8,62.5,2,3,66.7,2,2,100.0,13.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126784-KOR-CHN
+937,126785-AUS-JPN,20,Australia,Chloe Bibby,False,6:0,6.0,0,1,0,0,0,0,0,0,1,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126785-AUS-JPN
+938,126785-AUS-JPN,20,Australia,Alex Brooke Wilson,False,26:19,26.32,14,2,1,2,0,2,4,4,8,50.0,2,4,50.0,4,10,40.0,7.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126785-AUS-JPN
+939,126785-AUS-JPN,20,Australia,Isabelle Bourne,False,11:34,11.57,8,3,2,1,1,0,1,2,4,50.0,2,2,100.0,2,2,100.0,13.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126785-AUS-JPN
+940,126785-AUS-JPN,20,Australia,Alexandra Fowler,True,30:27,30.45,15,6,2,0,1,0,2,7,11,63.6,0,3,0.0,1,1,100.0,20.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126785-AUS-JPN
+941,126785-AUS-JPN,20,Australia,Zitina Lusia Aokuso,False,17:41,17.68,11,8,4,0,1,1,1,4,11,36.4,0,0,0.0,3,4,75.0,15.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126785-AUS-JPN
+942,126785-AUS-JPN,20,Australia,Isobel Borlase,True,10:1,10.02,8,2,0,0,0,1,4,3,6,50.0,0,0,0.0,2,2,100.0,6.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126785-AUS-JPN
+943,126785-AUS-JPN,20,Australia,Sara Blicavs,True,26:38,26.63,2,3,2,3,0,0,1,0,4,0.0,0,2,0.0,2,2,100.0,6.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126785-AUS-JPN
+944,126785-AUS-JPN,20,Australia,Cayla George,True,21:27,21.45,8,5,5,0,0,0,3,3,8,37.5,2,3,66.7,0,0,0.0,13.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126785-AUS-JPN
+945,126785-AUS-JPN,20,Australia,Stephanie Reid,True,18:54,18.9,13,0,4,0,0,2,5,4,10,40.0,3,6,50.0,2,2,100.0,9.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126785-AUS-JPN
+946,126785-AUS-JPN,20,Australia,Abbey Ellis,False,0:18,0.3,0,1,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,1.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126785-AUS-JPN
+947,126785-AUS-JPN,20,Australia,Courtney Michelle Woods,False,28:28,28.47,9,6,2,3,0,1,2,3,7,42.9,0,1,0.0,3,3,100.0,15.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126785-AUS-JPN
+948,126785-AUS-JPN,20,Australia,Miela Goodchild,False,2:13,2.22,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126785-AUS-JPN
+949,126785-AUS-JPN,20,Japan,Maki Takada,True,25:37,25.62,14,6,0,0,0,1,3,5,7,71.4,1,1,100.0,3,6,50.0,14.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126785-AUS-JPN
+950,126785-AUS-JPN,20,Japan,Mai Kawai,False,11:7,11.12,4,1,4,1,0,3,1,1,2,50.0,0,0,0.0,2,2,100.0,6.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126785-AUS-JPN
+951,126785-AUS-JPN,20,Japan,Stephanie Mawuli,True,22:23,22.38,8,3,0,1,0,1,2,2,4,50.0,0,1,0.0,4,5,80.0,8.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126785-AUS-JPN
+952,126785-AUS-JPN,20,Japan,Norika Konno,True,16:56,16.93,2,1,0,0,1,1,2,1,1,100.0,0,0,0.0,0,0,0.0,3.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126785-AUS-JPN
+953,126785-AUS-JPN,20,Japan,Monica Okoye,False,0:23,0.38,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,0.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126785-AUS-JPN
+954,126785-AUS-JPN,20,Japan,Miwa Kuribayashi,False,3:57,3.95,0,2,0,0,0,0,0,0,0,0.0,0,0,0.0,0,0,0.0,2.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126785-AUS-JPN
+955,126785-AUS-JPN,20,Japan,Nanako Todo,False,15:1,15.02,0,1,1,2,0,0,1,0,1,0.0,0,1,0.0,0,0,0.0,3.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126785-AUS-JPN
+956,126785-AUS-JPN,20,Japan,Anri Hoshi,False,6:11,6.18,0,0,0,1,0,0,2,0,3,0.0,0,1,0.0,0,0,0.0,-2.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126785-AUS-JPN
+957,126785-AUS-JPN,20,Japan,Yuki Miyazawa,False,31:47,31.78,18,9,1,1,1,3,3,6,10,60.0,4,5,80.0,2,2,100.0,23.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126785-AUS-JPN
+958,126785-AUS-JPN,20,Japan,Minami Yabu,False,19:29,19.48,4,0,0,0,0,1,2,1,6,16.7,1,4,25.0,1,2,50.0,-3.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126785-AUS-JPN
+959,126785-AUS-JPN,20,Japan,Kokoro Tanaka,True,28:53,28.88,21,6,9,0,0,1,3,7,20,35.0,3,8,37.5,4,4,100.0,22.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126785-AUS-JPN
+960,126785-AUS-JPN,20,Japan,Ramu Tokashiki,True,18:16,18.27,8,5,0,0,2,4,2,3,4,75.0,0,0,0.0,2,3,66.7,9.0,https://www.fiba.basketball/en/events/fiba-womens-asiacup-2025/games/126785-AUS-JPN
