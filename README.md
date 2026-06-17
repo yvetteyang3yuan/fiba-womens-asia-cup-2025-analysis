@@ -2,6 +2,8 @@
 
 ## 项目简介
 
+yvetteyang  motify readme file
+
 本项目基于 FIBA 官方公开页面，收集 2025 FIBA 女篮亚洲杯全部比赛数据，整理比赛信息、球队技术统计和球员 boxscore，并进一步进行中国女篮球员表现分析和全赛事基础统计分析。
 
 项目范围仅限 **2025 FIBA Women's Asia Cup Division A**，不包含 WCBA、WNBA 或其他赛事。
